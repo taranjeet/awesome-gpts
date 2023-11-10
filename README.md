@@ -103,5 +103,5 @@ Awesome GPTs is a collection of all GPTs created by the community.
 - [Data Extractor - JSON](https://chat.openai.com/g/g-wq6FSsAm3-data-extractor-json): Converts documents/text to structured data (JSON) by Francis Labounty
 - [Django Dev Helper](https://chat.openai.com/g/g-eRiuFfW0B-django-dev-helper): Your go-to Django development assistant by Francis Labounty
 - [BugBountyGPT](https://chat.openai.com/g/g-Rsk7ADgbD-bugbountygpt): AppSec & Bug Bounty by Andrew Brown
-
+- [Ben's Bites GPT](https://chat.openai.com/g/g-xHeDAUpJx-ben-s-bites-gpt): Latest AI News and Product Launches by [Ben Tossell](https://x.com/bentossell/)
 
