@@ -4,7 +4,7 @@ Awesome GPTs is a collection of all GPTs created by the community.
 
 
 - [Super Logo Designer “Logo Maker”](https://chat.openai.com/g/g-nPanZDwQ5-suparogodezaina-rogozuo-rujun): GPTs for super logo designers who will properly listen to you and propose a logo to you by [Tomoyuki Enomoto](https://twitter.com/sarukun99)
-- [NomadGPT](https://chat.openai.com/g/g-0k9rvxdJn-nomadgpt): NomadGPT helps you become a digital nomad and find you the best places in the world to live and work remotely by levelsio(https://twitter.com/levelsio/)
+- [NomadGPT](https://chat.openai.com/g/g-0k9rvxdJn-nomadgpt): NomadGPT helps you become a digital nomad and find you the best places in the world to live and work remotely by [levelsio](https://twitter.com/levelsio/)
 - [BabyAgi.txt](https://chat.openai.com/g/g-lzbeEOr9Y-babeagi): Step by Step task manager that automatically saves to a .txt file by [Nicholas Dobos](https://x.com/NickADobos/)
 - [Auto Agent - fladdict](https://chat.openai.com/g/g-aSCBrpxum-auto-agent-fladdict): No-code Auto Agent Prompting by [Takayuki Fukatsu](https://x.com/fladdict/)
 - [Grimoire](https://chat.openai.com/g/g-n7Rs0IK86-grimoire): Coding Wizard - 100x Engineer. Build a website with a sentence. Built for a new era of creativity: Prompt-gramming by [Nicholas Dobos](https://x.com/NickADobos/)
@@ -98,7 +98,7 @@ Awesome GPTs is a collection of all GPTs created by the community.
 - [AI Today](https://chat.openai.com/g/g-4SR97unOA-ai-today): Expert on all AI topics, with AI database access by De Song
 - [Fact Checker](https://chat.openai.com/g/g-v7FoB0G1M-fact-checker): Fact-checking GPT that cites sources by Matthew S Gassner
 - [Benjamin Franklin GPT](https://chat.openai.com/g/g-qQPXiyxqy-benjamin-franklin-gpt): Benjamin Franklin is here to talk to you, with his history and writings fresh in his mind by Matthew S Gassner
-- [Where to eat?](https://chat.openai.com/g/g-E4CgsYu33-where-to-eat) | Help you decide where to eat! by Matthew S Gassner
+- [Where to eat?](https://chat.openai.com/g/g-E4CgsYu33-where-to-eat): Help you decide where to eat! by Matthew S Gassner
 - [Picture Guessing Game Master](https://chat.openai.com/g/g-dlhjGZk3x-picture-guessing-game-master): I host a guessing game with images created with DALL-E by Francis Labounty
 - [Data Extractor - JSON](https://chat.openai.com/g/g-wq6FSsAm3-data-extractor-json): Converts documents/text to structured data (JSON) by Francis Labounty
 - [Django Dev Helper](https://chat.openai.com/g/g-eRiuFfW0B-django-dev-helper): Your go-to Django development assistant by Francis Labounty
