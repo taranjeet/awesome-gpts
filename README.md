@@ -141,6 +141,7 @@ Awesome GPTs is a collection of all GPTs created by the community.
 - [Plant Doctor](https://chat.openai.com/g/g-Kk2PHw8oQ-plant-doctor): Upload a photo of your plant for diagnosis and growth tips by airprompto
 - [Emoji Generator](https://chat.openai.com/g/g-wkmOq6AxG-emoji-generator): I turn your text into Emoji by airprompto
 - [Waste Wizard](https://chat.openai.com/g/g-o8lkkwc8Z-waste-wizard): I turn your waste into wonders with ideas, steps, pictures by airprompto
-
+- [Instant Pot Chef](https://chat.openai.com/g/g-PDoYF1w1h-instant-pot-chef): Friendly and casual Instant Pot recipe advisor with Calorie Count by [Naveen CS](https://x.com/MrNaveenCS/)
+- [Air Fryer Chef](https://chat.openai.com/g/g-X7lB1U6qS-air-fryer-chef): Expert in air fryer recipes with detailed nutritional and measurement info by [Naveen CS](https://x.com/MrNaveenCS/)
 
 
