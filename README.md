@@ -104,4 +104,6 @@ Awesome GPTs is a collection of all GPTs created by the community.
 - [Django Dev Helper](https://chat.openai.com/g/g-eRiuFfW0B-django-dev-helper): Your go-to Django development assistant by Francis Labounty
 - [BugBountyGPT](https://chat.openai.com/g/g-Rsk7ADgbD-bugbountygpt): AppSec & Bug Bounty by Andrew Brown
 - [Ben's Bites GPT](https://chat.openai.com/g/g-xHeDAUpJx-ben-s-bites-gpt): Latest AI News and Product Launches by [Ben Tossell](https://x.com/bentossell/)
+- [Instant Pot Chef](https://chat.openai.com/g/g-PDoYF1w1h-instant-pot-chef): Friendly and casual Instant Pot recipe advisor with Calorie Count by [Naveen CS](https://x.com/MrNaveenCS/)
+- [Air Fryer Chef](https://chat.openai.com/g/g-X7lB1U6qS-air-fryer-chef): Expert in air fryer recipes with detailed nutritional and measurement info by [Naveen CS](https://x.com/MrNaveenCS/)
 
