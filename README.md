@@ -9,6 +9,7 @@ Awesome GPTs is a collection of all GPTs created by the community.
 - [BabyAgi.txt](https://chat.openai.com/g/g-lzbeEOr9Y-babeagi): Step by Step task manager that automatically saves to a .txt file by [Nicholas Dobos](https://x.com/NickADobos/)
 - [PlaylistAI: Spotify](https://chat.openai.com/g/g-KkxbQAVuk-playlistai-spotify): Create Spotify music playlists for any prompt by [Brett Bauman](https://x.com/brettunhandled/)
 - [Auto Agent - fladdict](https://chat.openai.com/g/g-aSCBrpxum-auto-agent-fladdict): No-code Auto Agent Prompting by [Takayuki Fukatsu](https://x.com/fladdict/)
+- [ChadGPT](https://chat.openai.com/g/g-YhEhg2g2o-chadgpt): Your AI Fitness Coach & Meme Guru - blending workouts, motivation, and humor for a dynamic experience! by [Daniel Niemann Hjermitslev](https://twetch.com/u/20876)
 - [Grimoire](https://chat.openai.com/g/g-n7Rs0IK86-grimoire): Coding Wizard - 100x Engineer. Build a website with a sentence. Built for a new era of creativity: Prompt-gramming by [Nicholas Dobos](https://x.com/NickADobos/)
 - [Athena](https://chat.openai.com/g/g-SNLCL5HGB-athena): A witty robot philosopher from 2521 by [sarasdewi](https://x.com/sarasdewi)
 - [ChatXGB](https://chat.openai.com/g/g-dq9i42tRO-chatxgb):	GPT chatbot that helps you with technical questions related to XGBoost algorithm and library by [Bojan Tunguz](https://x.com/tunguz/)
