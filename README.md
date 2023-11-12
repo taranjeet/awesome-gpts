@@ -41,6 +41,9 @@ Awesome GPTs is a collection of all GPTs created by the community.
 - [UX Copywriting GPT](https://kavirkaycee.com/ux-copywriting-gpt): The Swiss Army Knife of UX Writing by [Kavir Kaycee](https://twitter.com/kavirkaycee)
 - [Interview Coach](https://chat.openai.com/g/g-Br0UFtDCR-interview-coach): Interview coach provides practice interview and mock interview feedback by Danny Graziosi
 - [Super Practical PM GPT](https://chat.openai.com/g/g-fvVMurIdH-super-practical-pm-gpt): I provide specific, tactical product management advice with practical examples and templates by [Carl Vellotti](https://x.com/carlvellotti/)
+- [VentureGPT](https://chat.openai.com/g/g-C3WWLOnWX-venturegpt): Co-pilot for VC by [wale.ai](https://wale.ai/)
+- [Content Helpfulness and Quality SEO Analyzer](https://chat.openai.com/g/g-WxhtjcFNs-content-helpfulness-and-quality-seo-analyzer): I Help you evaluate your web content helpfulness, relevance, and quality for your targeted query based on Google's guidelines vs the one of your competitors by [Aleyda Solis](https://twitter.com/aleyda)
+- [The LearningSEO.io SEO Teacher](): Friendly SEO expert teacher who will help you to learn SEO using reliable learningseo.io resources by [Aleyda Solis](https://twitter.com/aleyda)
 
 
 ## Content Creation & Writing
@@ -53,6 +56,7 @@ Awesome GPTs is a collection of all GPTs created by the community.
 - [HenriquesLab-style Writing Assistant](https://chat.openai.com/g/g-3Fsbpgl8u-henriqueslab-style-writing-assistant): Academic writing aid in Henriques's style by [Ricardo Henriques](https://x.com/HenriquesLab/)
 - [Mōsō-kun](https://chat.openai.com/g/g-wbywTK1JN-wang-xiang-kun): Send us an image and we'll create a story for you by [Takayuki Fukuda](https://x.com/hedachi/)
 - [AI Assistant for Resume and Cover Letter](https://chat.openai.com/g/g-G9nlEG33x-ai-assistant-for-resume-and-cover-letter): Professional resume and cover letter assistant by [Zekeri Zekkerriyya](https://x.com/majorgenerate/)
+- [Voice Over Generator](https://chat.openai.com/g/g-R4H9Al3sl-voice-over-generator): Writes scripts and makes instant voice overs by [Mike Russell](https://x.com/imikerussell)
 
 
 ## Culinary
@@ -180,6 +184,7 @@ Awesome GPTs is a collection of all GPTs created by the community.
 - [EA Wizard](https://chat.openai.com/g/g-d6cGwK4Lu-ea-wizard): Specialized in MQL4/5 code generation and problem solving by [lucky_papuwa777](https://x.com/lucky_papuwa777/)
 - [StreamlitGPT](https://chat.openai.com/g/g-ucLFVBWHR-streamlitgpt): Code reviews from a Streamlit expert by [Tyler Richards](https://x.com/tylerjrichards/)
 - [SOL Code Guru](https://chat.openai.com/g/g-s8kgfZ9z0-sol-code-guru): Friendly Solana tech expert by [Alex](https://x.com/AlexBSLCo/)
+- [Supabase Docs Writer](https://chat.openai.com/g/g-g0ObGf2Ow-supabase-docs-writer): Provides clear Supabase documentation help by [Paul Copplestone](https://twitter.com/kiwicopple)
 
 
 ## Translator
