@@ -146,4 +146,4 @@ Awesome GPTs is a collection of all GPTs created by the community.
 - [Supabase Docs Writer](https://chat.openai.com/g/g-g0ObGf2Ow-supabase-docs-writer): Provides clear Supabase documentation help by [Paul Copplestone](https://twitter.com/kiwicopple)
 - [ChatPRD](https://chat.openai.com/g/g-G5diVh12v-chatprd) - An on-demand Chief Product Officer that drafts and improves your PRDs, while coaching you to become an elite product manager by [Claire V Lawless](https://twitter.com/clairevo)
 - [Voice Over Generator](https://chat.openai.com/g/g-R4H9Al3sl-voice-over-generator) - Writes scripts and makes instant voice overs by [Mike Russell](https://x.com/imikerussell)
-
+- [VentureGPT](https://chat.openai.com/g/g-C3WWLOnWX-venturegpt) - Co-pilot for VC by [wale.ai](https://wale.ai)
