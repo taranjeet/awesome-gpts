@@ -151,3 +151,4 @@ Awesome GPTs is a collection of all GPTs created by the community.
 - [VentureGPT](https://chat.openai.com/g/g-C3WWLOnWX-venturegpt) - Co-pilot for VC by [wale.ai](https://wale.ai)
 - [Content Helpfulness and Quality SEO Analyzer](https://chat.openai.com/g/g-WxhtjcFNs-content-helpfulness-and-quality-seo-analyzer) - I help you evaluate your web content helpfulness, relevance, and quality for your targeted query based on Google's guidelines vs the one of your competitors by [Aleyda Solis](https://twitter.com/aleyda)
 - [The LearningSEO.io SEO Teacher](https://chat.openai.com/g/g-2zVLoduRa-the-learningseo-io-seo-teacher) - Friendly SEO expert teacher who will help you to learn SEO using reliable learningseo.io resources by [Aleyda Solis](https://twitter.com/aleyda)
+- [Game QA Strategist](https://chat.openai.com/g/g-LrhUBrExn-game-qa-strategist) - Plan QA tests and strategy based on recent code changes and game screenshots.
