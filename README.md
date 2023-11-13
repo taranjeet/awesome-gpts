@@ -17,6 +17,7 @@ Awesome GPTs is a collection of all GPTs created by the community.
 - [Philosophy & Self Help](#philosophy--self-help)
 - [Productivity](#productivity)
 - [Programming Assitance](#programming-assistance)
+- [Storytelling & Screenplays](#storytelling--screenplays)
 - [Transaltor](#translator)
 - [Miscellaneous](#miscellaneous)
 
@@ -185,6 +186,10 @@ Awesome GPTs is a collection of all GPTs created by the community.
 - [StreamlitGPT](https://chat.openai.com/g/g-ucLFVBWHR-streamlitgpt): Code reviews from a Streamlit expert by [Tyler Richards](https://x.com/tylerjrichards/)
 - [SOL Code Guru](https://chat.openai.com/g/g-s8kgfZ9z0-sol-code-guru): Friendly Solana tech expert by [Alex](https://x.com/AlexBSLCo/)
 - [Supabase Docs Writer](https://chat.openai.com/g/g-g0ObGf2Ow-supabase-docs-writer): Provides clear Supabase documentation help by [Paul Copplestone](https://twitter.com/kiwicopple)
+
+
+## Storytelling & Screenplays
+- [OpenStorytelling Plus](https://chat.openai.com/g/g-LppT0lwkB-openstorytelling-plus): An Educational Open Source Storytelling Writing Guide w/ Screenplay Examples by [Bryan Harris](https://x.com/BryanRebooted/)
 
 
 ## Translator
