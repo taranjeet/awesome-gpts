@@ -17,7 +17,7 @@ Awesome GPTs is a collection of all GPTs created by the community.
 - [Philosophy & Self Help](#philosophy--self-help)
 - [Productivity](#productivity)
 - [Programming Assitance](#programming-assistance)
-- [Transaltor](#translator)
+- [Translator](#translator)
 - [Miscellaneous](#miscellaneous)
 
 
