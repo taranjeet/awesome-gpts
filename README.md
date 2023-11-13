@@ -57,6 +57,7 @@ Awesome GPTs is a collection of all GPTs created by the community.
 - [Mōsō-kun](https://chat.openai.com/g/g-wbywTK1JN-wang-xiang-kun): Send us an image and we'll create a story for you by [Takayuki Fukuda](https://x.com/hedachi/)
 - [AI Assistant for Resume and Cover Letter](https://chat.openai.com/g/g-G9nlEG33x-ai-assistant-for-resume-and-cover-letter): Professional resume and cover letter assistant by [Zekeri Zekkerriyya](https://x.com/majorgenerate/)
 - [Voice Over Generator](https://chat.openai.com/g/g-R4H9Al3sl-voice-over-generator): Writes scripts and makes instant voice overs by [Mike Russell](https://x.com/imikerussell)
+- [PodGPT](https://chat.openai.com/g/g-XGYO3mnRt-podgpt): Summarize and ask questions about any podcast episode by [Mikkel Svartveit](https://x.com/mikkelsvartveit)
 
 
 ## Culinary
