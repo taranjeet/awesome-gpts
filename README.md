@@ -217,6 +217,7 @@ Awesome GPTs is a collection of all GPTs created by the community.
 - [StreamlitGPT](https://chat.openai.com/g/g-ucLFVBWHR-streamlitgpt): Code reviews from a Streamlit expert by [Tyler Richards](https://x.com/tylerjrichards/)
 - [SOL Code Guru](https://chat.openai.com/g/g-s8kgfZ9z0-sol-code-guru): Friendly Solana tech expert by [Alex](https://x.com/AlexBSLCo/)
 - [Supabase Docs Writer](https://chat.openai.com/g/g-g0ObGf2Ow-supabase-docs-writer): Provides clear Supabase documentation help by [Paul Copplestone](https://twitter.com/kiwicopple)
+- [Game QA Strategist](https://chat.openai.com/g/g-LrhUBrExn-game-qa-strategist) - Plan QA tests and strategy based on recent code changes and game screenshots.
 - [EmbeddedGPT](https://chat.openai.com/g/g-M5UY1ByFj-embeddedgpt): Checks through Embedded System Datasheet and Suggest Source Codes by Tito Lignon [(@u_know_whoab1r)](https://x.com/u_know_whoab1r)
 
 
