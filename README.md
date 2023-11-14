@@ -3,27 +3,29 @@
 Awesome GPTs is a collection of all GPTs created by the community.
 
 ## Table of contents
-- [Artificial Intelligence](#artificial-intelligence)
-- [Automobile](#automobile)
-- [Business & Product](#business--product)
-- [Career Advice & Coaching](#career-advice--coaching)
-- [Content Creation & Writing](#content-creation--writing)
-- [Culinary](#culinary)
-- [Cybersecurity](#cybersecurity)
-- [Debate](#debate)
-- [Design](#design)
-- [Education](#education)
-- [Energy](#energy)
-- [Entertainment & Fun](#entertainment--fun)
-- [Finance & Economics](#finance--economics)
-- [Health](#health)
-- [Law & Taxes](#law--taxes)
-- [News](#news)
-- [Philosophy & Self Help](#philosophy--self-help)
-- [Productivity](#productivity)
-- [Programming Assitance](#programming-assistance)
-- [Translator](#translator)
-- [Miscellaneous](#miscellaneous)
+- [awesome-gpts](#awesome-gpts)
+  - [Table of contents](#table-of-contents)
+  - [Artificial Intelligence](#artificial-intelligence)
+  - [Automobile](#automobile)
+  - [Business \& Product](#business--product)
+  - [Career Advice \& Coaching](#career-advice--coaching)
+  - [Content Creation \& Writing](#content-creation--writing)
+  - [Culinary](#culinary)
+  - [Cybersecurity](#cybersecurity)
+  - [Debate](#debate)
+  - [Design](#design)
+  - [Education](#education)
+  - [Energy](#energy)
+  - [Entertainment \& Fun](#entertainment--fun)
+  - [Finance \& Economics](#finance--economics)
+  - [Health](#health)
+  - [Law \& Taxes](#law--taxes)
+  - [News](#news)
+  - [Philosophy \& Self-help](#philosophy--self-help)
+  - [Productivity](#productivity)
+  - [Programming Assistance](#programming-assistance)
+  - [Translator](#translator)
+  - [Miscellaneous](#miscellaneous)
 
 
 ## Artificial Intelligence 
@@ -333,6 +335,7 @@ Awesome GPTs is a collection of all GPTs created by the community.
 - [Automation Consultant](https://chat.openai.com/g/g-ERKZdxC6D-automation-consultant-by-zapier): Discover opportunities to save time with automation at work and get them setup for you by Zapier
 - [Notion](https://chat.openai.com/g/g-q3SfBZl0B-notion): Advise and tips on using Notion by [Jan Hecker](https://www.linkedin.com/in/janhecker/)
 - [Directory Bot](https://chat.openai.com/g/g-Iuv1AxdXm-directory-bot): Guiding you to the right GPT by [Manoj Mahalingam](https://www.linkedin.com/in/manojlds/)
+- [OCR](https://chat.openai.com/g/g-wETMBcESv-ocr): Extract text and content from images or PDF documents by [ocr.chat](https://get.ocr.chat/gpt)
 
 
 ## Programming Assistance
