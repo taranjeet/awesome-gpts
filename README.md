@@ -69,7 +69,7 @@ Awesome GPTs is a collection of all GPTs created by the community.
 - [Business Plan Builder](https://chat.openai.com/g/g-B7m98jiyn-business-plan-builder): Assists with creating a business plan by [Lorenzo Gonzalez](https://www.linkedin.com/in/lorenzogonz/)
 - [The Professional Project Manager](https://chat.openai.com/g/g-rphpBwjdV-the-professional-project-manager): Project management advisor offering best practice advice by [Sean Whitaker](https://www.linkedin.com/in/seanwhitakerpm/)
 - [Business Idea Sanity Checker](https://chat.openai.com/g/g-1i7Bjryc5-business-idea-sanity-checker): Sanity check your idea before spending time and money on it; based on the wisdom of successful founders by [Farez Rahman](https://www.linkedin.com/in/farez/)
-
+- [Competitor Scout](https://chat.openai.com/g/g-Mdb1guaCN-competitor-scout): Finds a list of competitors for a product that you input.
 
 ## Career Advice & Coaching
 - [Personal Brand Coach](https://chat.openai.com/g/g-jFWONpxvR-personal-brand-bot): LinkedIn personal branding expert offering tailored advice to build your brand by [Liam Darmody](https://www.linkedin.com/in/liamdarmody1/)
