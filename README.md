@@ -219,6 +219,7 @@ Awesome GPTs is a collection of all GPTs created by the community.
 - [Supabase Docs Writer](https://chat.openai.com/g/g-g0ObGf2Ow-supabase-docs-writer): Provides clear Supabase documentation help by [Paul Copplestone](https://twitter.com/kiwicopple)
 - [Game QA Strategist](https://chat.openai.com/g/g-LrhUBrExn-game-qa-strategist) - Plan QA tests and strategy based on recent code changes and game screenshots.
 - [EmbeddedGPT](https://chat.openai.com/g/g-M5UY1ByFj-embeddedgpt): Checks through Embedded System Datasheet and Suggest Source Codes by Tito Lignon [(@u_know_whoab1r)](https://x.com/u_know_whoab1r)
+- [Node Mentor](https://chat.openai.com/g/g-mqQglGigC-node-mentor): Helps you with any Node.JS related issue and code. Writes, checks and fixes code. (It will also help with basic web development).
 
 
 ## Translator
