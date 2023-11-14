@@ -94,6 +94,7 @@ Awesome GPTs is a collection of all GPTs created by the community.
 - [Palette Creator 🎨](https://chat.openai.com/g/g-JSjKsEC8t-palette-creator): A color palette generator offering 5 colors with hex codes and images by [Ben Tossell](https://x.com/bentossell/)
 - [ImageConverter](https://chat.openai.com/g/g-Rn20pc9HE-imageconverter): Visual and friendly guide for image processing by Junmin Liu
 - [Dallgoth, Generator of Darkness](https://chat.openai.com/g/g-O9mdeKyU8-dallgoth-generator-of-darkness): Dallgoth crafts super grindy, nearly illegible grindcore logos with tentacles, splatters, horns, and swooshes by [Joey Flynn](https://x.com/wjosephflynn/)
+- [BraceletGPT](https://chat.openai.com/g/g-CCIFE0bxP-braceletgpt): Create Your Own Gemstone Bracelets with Live 3D by [Lucid Beads](https://www.lucidbeads.com)
 
 
 ## Education
