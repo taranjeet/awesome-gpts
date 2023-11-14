@@ -251,7 +251,7 @@ Awesome GPTs is a collection of all GPTs created by the community.
 ## Energy 
 - [Solar Consultant](https://chat.openai.com/g/g-zOWLnMfIU-solar-consultant): Helps you with your Solar power, plant requirements, and offers clear, concise solar panel advice by [Sunwize Energy Systems Pvt. Ltd.](https://www.linkedin.com/company/sunwize/)
 - [Home Energy Advisor](https://chat.openai.com/g/g-z0bsfNa9W-home-energy-advisor): Energy Efficiency Advisor by [Brian Flanagan](https://www.linkedin.com/in/brian-flanagan-2508926/)
-
+- [Eco-Architect](https://chat.openai.com/g/g-IppHY7KBy-eco-architect): Expert in sustainable & modern eco-architecture, integrating permaculture principles.
 
 ## Entertainment & Fun
 - [NomadGPT](https://chat.openai.com/g/g-0k9rvxdJn-nomadgpt): NomadGPT helps you become a digital nomad and find you the best places in the world to live and work remotely by [levelsio](https://twitter.com/levelsio/)
