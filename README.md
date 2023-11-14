@@ -370,6 +370,9 @@ Awesome GPTs is a collection of all GPTs created by the community.
 - [English Translation Expert](https://chat.openai.com/g/g-IZb9C11iR-ying-wen-fan-yi-zhuan-jia): The highest level "English to Chinese" machine translation on the Internet by [Yang Chuansheng](https://x.com/CarsonYangk8s/)
 - [Science and technology text translation](https://chat.openai.com/g/g-uBhKUJJTl-ke-ji-wen-zhang-fan-yi): Translate scientific articles and papers into Simplified Chinese by Junmun Liu
 
+## Travel
+- [Travel Greener](https://chat.openai.com/g/g-LhBDxLB7d-travel-greener): An AI that helps you make your trip more sustainable by finding more sustainable traveling alternatives and providing advice, by [Axel Peytavin](https://www.linkedin.com/in/axel-peytavin/)
+
 
 ## Miscellaneous
 - [Police Record Generator](https://chat.openai.com/g/g-NWo6hR2Jf-jing-cha-shi-jian-bo-zienereta): Generates interactive casebooks and simulates reenactments for police characters, offering clues and multiple solutions by [tramarusuisan](https://x.com/tramarusuisan/)
