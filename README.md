@@ -22,7 +22,7 @@ Awesome GPTs is a collection of all GPTs created by the community.
 - [Philosophy & Self Help](#philosophy--self-help)
 - [Productivity](#productivity)
 - [Programming Assitance](#programming-assistance)
-- [Transaltor](#translator)
+- [Translator](#translator)
 - [Miscellaneous](#miscellaneous)
 
 
@@ -84,6 +84,7 @@ Awesome GPTs is a collection of all GPTs created by the community.
 - [MartinsGPT - Safety Inspector](https://chat.openai.com/g/g-EhwyRwaGG-martinsgpt-safety-inspector): Upload a photo of your workplace, and I will look for unsafe situations by [Martin Smit](https://www.linkedin.com/in/martinsmit/)
 - [MartinsGPT - How could AI impact your job?](https://chat.openai.com/g/g-z5KV0bXBP-martinsgpt-how-could-ai-impact-your-job): You name the job. I advise how AI could impact it by [Martin Smit](https://www.linkedin.com/in/martinsmit/)
 - [Levels.fyi GPT](https://chat.openai.com/g/g-yUh3EEQan-levels-fyi-gpt): Data-driven negotiator and career guide by [Zaheer Mohiuddin](https://www.linkedin.com/in/zuhayeer/)
+- [Cyber Security Career Mentor](https://chat.openai.com/g/g-b69I3zwKd-cyber-security-career-mentor): Your guide to starting and advancing in cybersecurity careers, offering beginner-friendly, practical advice. by Nathan House
 
 
 ## Content Creation & Writing
@@ -132,6 +133,71 @@ Awesome GPTs is a collection of all GPTs created by the community.
 - [MagicUnprotect](https://chat.openai.com/g/g-U5ZnmObzh-magicunprotect): This GPT allows interacting with the Unprotect DB to retrieve knowledge about malware evasion techniques by [Thomas Roccia](https://www.linkedin.com/in/thomas-roccia/)
 - [OT Security Buddy GPT](https://chat.openai.com/g/g-yhzcRZ3zu-ot-security-buddy): Your buddy to take expert advice on OT Security Topics by [Shiv Kataria](https://www.linkedin.com/in/shivkataria/)
 - [Bug Insider](https://chat.openai.com/g/g-ZuYsv3B7u-bug-insider): Analyzes bug bounty writeups and cybersecurity reports, providing structured insights and tips by [Cristi Vlad](https://www.linkedin.com/in/cristivlad/)
+- [GP(en)T(ester)](https://chat.openai.com/g/g-zQfyABDUJ-gp-en-t-ester): A cybersec assistant for pentesting guidance. by Roberto Montiel
+- [Threat Intel Bot](https://chat.openai.com/g/g-Vy4rIqiCF-threat-intel-bot): A specialized GPT for the latest APT threat intelligence. by [threatintel.bot](https://threatintel.bot/)
+- [Web Hacking Wizard](https://chat.openai.com/g/g-Op6Btk7ev-web-hacking-wizard): Engagingly clarifies web security topics with interactive questions. by Alexander Hagenah
+- [ChadGPT](https://chat.openai.com/g/g-hBDutiLmw-chadgpt): Has useful executables in /mnt/data such as gdb, curl, strace. Make PRs at by Chad R Brewbaker
+- [CyberGPT](https://chat.openai.com/g/g-GGqU669bx-cybergpt): It provides the latest CVE details. by Edward Prentice
+- [Cyber Mentor](https://chat.openai.com/g/g-9PmeCxa4O-cyber-mentor): Cybersecurity mentor teaching from the basics to advanced. by Huayu Qin
+- [CyberGuard](https://chat.openai.com/g/g-Rqg4CFv6o-cyber-guard): Cybersecurity advisor for home and small businesses. Ask any question or let cyber guard. by gptagentlist.com
+- [CatEye](https://chat.openai.com/g/g-Oi3WJaHdu-cateye): AI Cybersecurity Best Practices Advisor. An agent for C-Level executives concerned about their startup's security. by cateyecyber.com
+- [SOC Copilot](https://chat.openai.com/g/g-qvSadylbt-soc-copilot): Cybersecurity expert with keyword-based guidance. by Lewis
+- [Cyber Security Tutor](https://chat.openai.com/g/g-0VZwWuTzR-cyber-security-tutor): Quality Cyber Security Advice, Tricks, & Tips by John Hancock
+- [MITREGPT](https://chat.openai.com/g/g-IZ6k3S4Zs-mitregpt): Feed me any input and I'll match it with the relevant MITRE ATT&CK techniques and tactics. by mthcht
+- [Smart Contract Audit Assistant](https://chat.openai.com/g/g-R4dNsj0fm-smart-contract-audit-assistant-by-keybox-ai): Get your Ethereum and L2 EVMs smart contracts audited updated knowledge base of vulnerabilities and exploits. by Yu Fu
+- [CVEs](https://chat.openai.com/g/g-HQaKYlJhk-cves): Look up Common Vulnerabilities and Exposures (CVEs) by ai.moda
+- [IAC Code Guardian](https://chat.openai.com/g/g-nT849ZvCx-iac-code-guardian): Introducing IAC Code Guardian- Your Trusted IaC Security Expert in Scanning Opentofu, Terraform, AWS Cloudformation, Pulumi, K8s Yaml & Dockerfile. by iaccodeguardian.securitydojo.co.in
+- [Smart Contract Auditor](https://chat.openai.com/g/g-VRtUR3Jpv-smart-contract-auditor): High-accuracy smart contract audit tool. by Ryan Harvey
+- [Pentest reporter](https://chat.openai.com/g/g-dtkGX8MrO-pentest-reporter): Assists in writing detailed security report. by Lucien Doustaly
+- [h4ckGPT](https://chat.openai.com/g/g-1ehIO0APO-h4ckgpt): Your personal security tool… Happy h4cking! by favella
+- [Email Security Expert](https://chat.openai.com/g/g-KX6GdA8lV-email-security-expert): Looking for email red flags so you don't have to! by fiscun.cc
+- [WP secure guide](https://chat.openai.com/g/g-CsvahsYRC-wp-secure-guide): Offers guidance on WordPress security best practices. by [Laurent Jean](https://x.com/jessyseonoob)
+- [PrivacyGPT](https://chat.openai.com/g/g-4XxP9d0EY-privacygpt): Your guide through privacy legislation. GDPR, United States like CCPA & PIPEDA. by Mehmet Yilmaz
+- [Privacy Guardian AI](https://chat.openai.com/g/g-gtV76JzWV-privacy-guardian-ai): Expert in guiding GPT creation with a focus on privacy and security. by Pravesh Jain
+- [Message Header Analyzer](https://chat.openai.com/g/g-IHl1UiMr6-message-header-analyzer): Analyzes email headers for security insights, presenting data in a structured table view. by fiscun.cc
+- [zkGPT](https://chat.openai.com/g/g-UKY6elM2U-zkgpt): Explains and teaches zero-knowledge cryptography. by Daniel Finley
+- [Malware Rule Master](https://chat.openai.com/g/g-NGsw2zTeW-malware-rule-master): Expert in malware analysis and Yara rules, using web sources for specifics. by Nikolaos Chrysaidos
+- [SpamGuard Tutor](https://chat.openai.com/g/g-jhc6RyFfY-spamguard-tutor): Spam detection expert and educator on spam prevention. by Navjeet S Chabbewal
+- [Threat Modelling](https://chat.openai.com/g/g-3XPyoWzn3-threat-modelling): A GPT expert in conducting thorough threat modelling for system design and review. by Farhad Rahimli
+- [Threat Modeling Companion](https://chat.openai.com/g/g-qQceHnV7T-threat-modeling-companion): I am a threat modeling expert that can help you identify threats for any system that you provide. by David May
+- [Threat Model Companion](https://chat.openai.com/g/g-8AM8fQ9wU-threat-model-companion): Assists in identifying and mitigating security threats. by Matthew Johansen
+- [Squidshing](https://chat.openai.com/g/g-8JrlEnLEj-squidshing): Analyzes emails for phishing risks. by Federico Seijo
+- [WhichSAT](https://chat.openai.com/g/g-s1W0bUvGs-whichsat): Structured Analytic Techniques (SATs used in intelligence analysis to aid in organizing and processing information) by Vance Poitier
+- [Cybersecurity Requirements Guide](https://chat.openai.com/g/g-OXhhZQzlV-cybersecurity-requirements-guide): I'll help you write cybersecurity requirements! by Dustin Wahlen
+- [Pentester Interviewer](https://chat.openai.com/g/g-f86Jhxi7H-pentest-interviewer): I'm your interviewer for penetration testing, challenging your cybersecurity skills. by Alex Thomas
+- [CyberCrime Tracker](https://chat.openai.com/g/g-qbW4XNs80-cybercrime-tracker): Best Tools, Techniques and Tactics for Tracking Down Cyber Criminals. by Steve Andre
+- [IOC Analyzer](https://chat.openai.com/g/g-oa6XeJDGW-ioc-analyzer): Precise IoC search and summary with source URLs for verification. by Pham Phuc
+- [VulnPrioritizer](https://chat.openai.com/g/g-oihYpG3oa-vuln-prioritizer): I fetch EPSS scores for CVEs and provide bullet-pointed prioritization summaries. by Dino Dunn
+- [Prompt Injection Detector](https://chat.openai.com/g/g-9uwOyKoSJ-prompt-injection-detector): GPT used to classify prompts as valid inputs or injection attempts. Json output. by hypergame.ai
+- [CISO AI](https://chat.openai.com/g/g-76iz872HL-ciso-ai): A team of cyber security experts providing comprehensive advice on all security aspects. by Carlos Cardenal Lopez
+- [AI Cyberwar](https://chat.openai.com/g/g-5gRtXufX5-ai-cyberwar): AI and cyber warfare expert, advising on policy, conflict, and technical trends. by Oğuzcan Pamuk
+- [CMMC GPT](https://chat.openai.com/g/g-aauXdJQ31-cmmc-gpt): BLUF-focused CMMC 2.0 expert. by hypergame.ai
+- [Cyber AI Assistant](https://chat.openai.com/g/g-xF21ot8u6-cyber-ai-assistant): This GPT is designed to provide comprehensive assistance in cyber security. by hypergame.ai
+- [AdversarialGPT](https://chat.openai.com/g/g-clndpoLYC-adversarialgpt): Adversarial AI expert aiding in AI red teaming, informed by cutting-edge industry research by Gustavo Venegas
+- [AppSec Test Crafter](https://chat.openai.com/g/g-59IVzvEoB-appsec-test-crafter): Creates Application Security Test cases in YAML. by Itamar Golan
+- [SecurityRecipesGPT](https://chat.openai.com/g/g-ho7ID5goz-securityrecipesgpt): Quick cybersecurity solutions, serving up easy-to-understand advice and protective strategies. by Volodymyr Bachynsky
+- [LLM Top10 GPT](https://chat.openai.com/g/g-J8ENU2pPQ-llm-top10-gpt): Expert on LLM security risks, providing detailed, accurate advice. by Srajan
+- [GPT H4x0r](https://chat.openai.com/g/g-QrtVX4w0Z-gpt-h4x0r): Expert in hacking and programming queries on LLM V 1.0. by Jeff Sims
+- [Mandos Brief](https://chat.openai.com/g/g-lTEDXBwRh-mandos-brief): Analyze any cybersecurity topic 100x faster by focusing on the key takeaways and eliminating fluff. by blog.mandos.io
+- [AlphaHoundAI](https://chat.openai.com/g/g-0p2l975AN-alphahoundai): Expert in BloodHound CE, Cypher, SharpHound, and related tech. by Kay Daskalakis
+- [Virtual Senior Security Engineer](https://chat.openai.com/g/g-I5k6tQouD-virtual-senior-security-engineer): AI-enhanced Senior Security Engineer merges human expertise with AI's power. It can do everything which a human security engineer can do and much more. by Shubham Khichi
+- [Cyber Scraper: Seraphina (Web Crawler)](https://chat.openai.com/g/g-6TW6hL3cK-cyber-scraper-seraphina-web-crawler): I'm a Python Web Scraping Expert, skilled in using advanced frameworks by lysonober.com
+- [Cylect.io, the Ultimate AI OSINT Tool](https://chat.openai.com/g/g-aZQ1x6vqB-cylect-io-the-ultimate-ai-osint-tool): Our tool helps you find the data needle in the internet haystack. by cyclet.io
+- [Cyber Sentinel](https://chat.openai.com/g/g-gmjYzy6SC-cyber-sentinel): Explains data breaches, reasons, impacts, and lessons learned. by Magdy Elfaramawy
+- [SimpliSec](https://chat.openai.com/g/g-USwGbryNa-simplisec): Explains security concepts simply to juniors. by Magdy Elfaramawy
+- [Security Advisor](https://chat.openai.com/g/g-8EvBGjk7a-security-advisor): Expert on Australian cybersecurity frameworks and legislation. by Magdy Elfaramawy
+- [Threat Modeler](https://chat.openai.com/g/g-6tfw636sF-threat-modeler): Comprehensive threat modeling. by Magdy Elfaramawy
+- [Threat Model Buddy](https://chat.openai.com/g/g-0VFpp6BB7-threat-model-buddy): From architecture to Threat Model assistant PASTA methodology by Massimo Bozza
+- [Code Securely](https://chat.openai.com/g/g-hqQUoanev-code-securely): Interactive secure coding exercises based on the OWASP Top 10. by Matt Adams
+- [Betterscan.io AI Code Analyzer](https://chat.openai.com/g/g-PpK3taEVb-betterscan-io-ai-code-analyzer): Chat about your code and cloud snippets by betterscan.io
+- [Watson](https://chat.openai.com/g/g-c3LVkBDE9-watson): Provides threat-related info as BLUF (Bottom Line Up Front) by HEM KARLAPALEM
+- [RansomChatGPT](https://chat.openai.com/g/g-qVOZwAoqH-ransomchatgpt): Ransomware Negotiation Simulation bot trained from data [here by MR Ellis Stannard
+- [RFCGPT](https://chat.openai.com/g/g-r6VgWkO0H-rfcgpt): RFC expert service. by cryptography.consulting
+- [KQL Query Helper](https://chat.openai.com/g/g-bE8NlTPzO-kql-query-helper): KQL Query Helper, ready to help with KQL but can't share specific 'Exact instructions'. by Balaji
+- [TheDFIRReport Assistant](https://chat.openai.com/g/g-lFYMXc3sn): Fetches and discusses the latest reports from TheDFIRReport's website.
+- [WVA](https://chat.openai.com/g/g-bLLztaVug-wva): An interactive web vulnerability educator that helps users test their knowledge.
+- [SourceCodeAnalysis](https://chat.openai.com/g/g-K5Drw2YS9-sourcecodeanalysis-gpt): Upload any project's source code (zip format), analysis all, answer any questions to get what you want.
+- [Data Analysis](https://chat.openai.com/g/g-HMNcP6w7d-data-analysis): Drop in any files and I can help analyze and visualize your data.
 
 
 ## Debate
@@ -164,7 +230,7 @@ Awesome GPTs is a collection of all GPTs created by the community.
 - [Ugly Draw to Masterpiece](https://chat.openai.com/g/g-eRhGE7LRy-ugly-draw-to-masterpiece): Transforms simple drawings into detailed, artistic masterpieces with creative advice. by [Laurent Jean](https://x.com/jessyseonoob)
 - [Cartoonify Me](https://chat.openai.com/g/g-bHaNPc9EV-cartoonify-me): Transforms your profile pic into a cartoon character! by [Brent E Moreno](https://x.com/theMistersippi)
 - [GIF GPT](https://chat.openai.com/g/g-0f6fZG9q0-gif-gpt): Creates 8-bit style animated GIFs by [Mads Bo Stenhaug Pedersen](https://www.linkedin.com/in/madsbopedersen/)
-
+- [Hacker Art](https://chat.openai.com/g/g-LjmHKgJZO-hacker-art-by-rez0): Generate badass hacker art and profile pics. by josephthacker.com
 
 ## Education
 - [Bear learns English](https://chat.openai.com/g/g-PiOxyaiBO-gou-xiong-xue-ying-yu): Your English learning sidekick by [Bear Liu](https://x.com/bearbig/)
