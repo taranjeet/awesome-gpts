@@ -537,6 +537,9 @@ Awesome GPTs is a collection of all GPTs created by the community.
 - [Multilingual Mentor](https://chat.openai.com/g/g-ecP2s16LQ-multilingual-mentor): Learn any language IN any other language while talking freely but still in a structured way and according to your current proficiency by [@linus-ahlemeyer](https://github.com/linus-ahlemeyer)
 - [Portuguese Pal](https://chat.openai.com/g/g-xEtoWs2cJ-portuguese-pal): Learn Portuguese while talking freely but still in a structured way and according to your current proficiency by [@linus-ahlemeyer](https://github.com/linus-ahlemeyer)
 
+## Travel
+- [Travel Greener](https://chat.openai.com/g/g-LhBDxLB7d-travel-greener): An AI that helps you make your trip more sustainable by finding more sustainable traveling alternatives and providing advice, by [Axel Peytavin](https://www.linkedin.com/in/axel-peytavin/)
+
 
 ## Miscellaneous
 - [Police Record Generator](https://chat.openai.com/g/g-NWo6hR2Jf-jing-cha-shi-jian-bo-zienereta): Generates interactive casebooks and simulates reenactments for police characters, offering clues and multiple solutions by [tramarusuisan](https://x.com/tramarusuisan/)
