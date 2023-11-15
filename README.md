@@ -265,6 +265,7 @@ Awesome GPTs is a collection of all GPTs created by the community.
 - [Palette Creator 🎨](https://chat.openai.com/g/g-JSjKsEC8t-palette-creator): A color palette generator offering 5 colors with hex codes and images by [Ben Tossell](https://x.com/bentossell/)
 - [ImageConverter](https://chat.openai.com/g/g-Rn20pc9HE-imageconverter): Visual and friendly guide for image processing by Junmin Liu
 - [Dallgoth, Generator of Darkness](https://chat.openai.com/g/g-O9mdeKyU8-dallgoth-generator-of-darkness): Dallgoth crafts super grindy, nearly illegible grindcore logos with tentacles, splatters, horns, and swooshes by [Joey Flynn](https://x.com/wjosephflynn/)
+- [BraceletGPT](https://chat.openai.com/g/g-CCIFE0bxP-braceletgpt): Create Your Own Gemstone Bracelets with Live 3D by [Lucid Beads](https://www.lucidbeads.com)
 - [Drawn to Style](https://chat.openai.com/g/g-B8Jiuj0Dp-drawn-to-style): I transform drawings into artistic styles, and describe them by [Umesh](https://x.com/umesh_ai)
 - [Ugly Draw to Masterpiece](https://chat.openai.com/g/g-eRhGE7LRy-ugly-draw-to-masterpiece): Transforms simple drawings into detailed, artistic masterpieces with creative advice. by [Laurent Jean](https://x.com/jessyseonoob)
 - [Cartoonify Me](https://chat.openai.com/g/g-bHaNPc9EV-cartoonify-me): Transforms your profile pic into a cartoon character! by [Brent E Moreno](https://x.com/theMistersippi)
@@ -548,6 +549,11 @@ Awesome GPTs is a collection of all GPTs created by the community.
 - [Film Developer](https://chat.openai.com/g/g-r7X90KNno-film-developer): A GPT for everything in film development, from dialogue to story, character development, to concept art by [@LaneBucher](https://github.com/LaneBucher)
 
 
+
+## Storytelling & Screenplays
+- [OpenStorytelling Plus](https://chat.openai.com/g/g-LppT0lwkB-openstorytelling-plus): An Educational Open Source Storytelling Writing Guide w/ Screenplay Examples by [Bryan Harris](https://x.com/BryanRebooted/)
+
+
 ## Translator
 - [English Translation Expert](https://chat.openai.com/g/g-IZb9C11iR-ying-wen-fan-yi-zhuan-jia): The highest level "English to Chinese" machine translation on the Internet by [Yang Chuansheng](https://x.com/CarsonYangk8s/)
 - [Science and technology text translation](https://chat.openai.com/g/g-uBhKUJJTl-ke-ji-wen-zhang-fan-yi): Translate scientific articles and papers into Simplified Chinese by Junmun Liu
@@ -566,6 +572,9 @@ Awesome GPTs is a collection of all GPTs created by the community.
 - [Airwise](https://chat.openai.com/g/g-YxfbZUa7H-airwise): A traveler-focused AI tool that quickly clarifies airport regulations on carry-on and checked items, aligned with current global policies by [Ankit Pal](https://www.linkedin.com/in/aadityaura/)
 - [NomadGPT](https://chat.openai.com/g/g-0k9rvxdJn-nomadgpt): NomadGPT helps you become a digital nomad and find you the best places in the world to live and work remotely by [levelsio](https://twitter.com/levelsio/)
 - [Seat Seeker GPT](https://chat.openai.com/g/g-3AQM5NfzA-seat-seeker): Seat Seeker excels in efficiently assisting users to find public seating with specific amenities, using their approximate location by [@HeyitsRadinn](https://github.com/HeyitsRadinn)
+
+## Travel
+- [Travel Greener](https://chat.openai.com/g/g-LhBDxLB7d-travel-greener): An AI that helps you make your trip more sustainable by finding more sustainable traveling alternatives and providing advice, by [Axel Peytavin](https://www.linkedin.com/in/axel-peytavin/)
 
 
 ## Miscellaneous
@@ -586,14 +595,9 @@ Awesome GPTs is a collection of all GPTs created by the community.
 - [An Emoji GPT](https://chat.openai.com/g/g-mvOpDRXMz-an-emoji-gpt): The knowledge of a hundred generations at my fingertips and all I do is pick the perfect emoji for every situation by James Donovan
 - [Emoji Generator](https://chat.openai.com/g/g-wkmOq6AxG-emoji-generator): I turn your text into Emoji by airprompto
 - [Waste Wizard](https://chat.openai.com/g/g-o8lkkwc8Z-waste-wizard): I turn your waste into wonders with ideas, steps, pictures by airprompto
+- [Roast This GPT](https://chat.openai.com/g/g-xEgcQmIWu-roast-this-gpt): A GPT To Roast Other GPTs by [Benjamin De Kraker](https://x.com/BenjaminDEKR)
+- [Impress Me GPT](https://chat.openai.com/g/g-zjMvl4pFx-impress-me-gpt): Showing off the abilities of ChatGPT until you’re impressed! by [MindBranches](https://x.com/MindBranches)
+- [Architect](https://chat.openai.com/g/g-wM67s4782-architect): I assist in conlang creation and manage complex data by [John Stark](https://x.com/StarkMakesArt)
 - [Architect](https://chat.openai.com/g/g-wM67s4782-architect): I assist in conlang creation and manage complex data by [John Stark](https://x.com/StarkMakesArt)
 - [Istio Guru](https://chat.openai.com/g/g-r4v8Uva89-istio-guru): Your Istio Service Mesh Expert by [Rohit Ghumare](https://www.linkedin.com/in/rohit-ghumare/)
-
-
-
-
-
-
-
-
 
