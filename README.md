@@ -108,6 +108,7 @@ Awesome GPTs is a collection of all GPTs created by the community.
 - [Mōsō-kun](https://chat.openai.com/g/g-wbywTK1JN-wang-xiang-kun): Send us an image and we'll create a story for you by [Takayuki Fukuda](https://x.com/hedachi/)
 - [AI Assistant for Resume and Cover Letter](https://chat.openai.com/g/g-G9nlEG33x-ai-assistant-for-resume-and-cover-letter): Professional resume and cover letter assistant by [Zekeri Zekkerriyya](https://x.com/majorgenerate/)
 - [Voice Over Generator](https://chat.openai.com/g/g-R4H9Al3sl-voice-over-generator): Writes scripts and makes instant voice overs by [Mike Russell](https://x.com/imikerussell)
+- [PodGPT](https://chat.openai.com/g/g-XGYO3mnRt-podgpt): Summarize and ask questions about any podcast episode by [Mikkel Svartveit](https://x.com/mikkelsvartveit)
 - [Bedtime Stories](https://chat.openai.com/g/g-i5ZE8Aq9i-bedtime-stories): I create illustrated stories with your child as the main character! by Parth Gandhi
 - [AI Filmmaking Assistant](https://chat.openai.com/g/g-hiKxJNAlp-ai-filmmaking-assistant): Create consistency across your AI Film, automatically format Midjourney prompts, and more! by [Dale A Williams](https://x.com/TheReelRobot)
 - [Lorem Generator](https://chat.openai.com/g/g-G2rQPDzZc-lorem-generator): Generate and format Lorem Ipsum Text by [Git Maxd](https://x.com/GitMaxd)
