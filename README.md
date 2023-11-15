@@ -146,6 +146,7 @@ Awesome GPTs is a collection of all GPTs created by the community.
 
 ## Culinary
 - [Daily Recipe Creator](https://chat.openai.com/g/g-TNOuedzff-daily-recipe-creator): Creates recipes from ingredients by [Yota Ishikawa](https://x.com/ctgptlb/)
+- [MacroMeter GPT](https://chat.openai.com/g/g-CWeZC6BVi-macrometer-gpt): Tracks your daily nutrition, including carbs and protein, and displays charts. by [Jyothish Johnson](https://x.com/jyo_johnson)
 - [Culinary Creator](https://chat.openai.com/g/g-5ttrssEui-culinary-creator): Crafts recipes from food images by Shogo Matsusako](https://x.com/wappaboy/)
 - [Recipe Snap](https://chat.openai.com/g/g-uPFa8qH8y-recipe-snap): I craft recipes from your ingredient photos by [Yueuke Endo](https://x.com/ysk_en/)
 - [Where to eat?](https://chat.openai.com/g/g-E4CgsYu33-where-to-eat): Help you decide where to eat! by Matthew S Gassner
