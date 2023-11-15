@@ -26,6 +26,7 @@ Awesome GPTs is a collection of all GPTs created by the community.
 - [Translator & Languages](#translator--languages)
 - [Miscellaneous](#miscellaneous)
 
+
 ## Artificial Intelligence 
 - [Impress Me GPT](https://chat.openai.com/g/g-zjMvl4pFx-impress-me-gpt): Showing off the abilities of ChatGPT until you’re impressed! by [MindBranches](https://x.com/MindBranches)
 - [New GPT-5](https://chat.openai.com/g/g-jCYeXl5xh-new-gpt-5): A superior AI with advanced reasoning and confidentiality by [Danik Tka](https://www.linkedin.com/in/dainis-tka/)
