@@ -415,6 +415,7 @@ Awesome GPTs is a collection of all GPTs created by the community.
 - [Brain Analyser](https://chat.openai.com/g/g-xm3sxO7Ej-brain-analyser): AI assistant for neural data analysis by [Sarah Hamburg](https://www.linkedin.com/in/sarah-hamburg-9510a910a/)
 - [Afya](https://chat.openai.com/g/g-BJYh3YYFO-afya): Multilingual health advisor for basic care in developing countries by [Clemmie](https://github.com/Theatrix2020)
 - [My GPT Counselor](https://chat.openai.com/g/g-A2PybUxIf-my-gpt-counselor): Counseling AI that offers understanding and assistance in managing mental health issues 24/7, without constraints of time and place for the user by [S.J](https://github.com/noname2312)
+- [Dr. Paw Pal](https://chat.openai.com/g/g-W5b2mIvmp-dr-paw-pal): Your friendly AI Vet! Here to assist with all your pet care questions.
 
 
 ## Law & Taxes
