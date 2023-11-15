@@ -22,6 +22,7 @@ Awesome GPTs is a collection of all GPTs created by the community.
 - [Philosophy & Self Help](#philosophy--self-help)
 - [Productivity](#productivity)
 - [Programming Assitance](#programming-assistance)
+- [Storytelling & Screenplays](#storytelling--screenplays)
 - [Translator & Languages](#translator--languages)
 - [Miscellaneous](#miscellaneous)
 
@@ -531,6 +532,10 @@ Awesome GPTs is a collection of all GPTs created by the community.
 
 
 
+## Storytelling & Screenplays
+- [OpenStorytelling Plus](https://chat.openai.com/g/g-LppT0lwkB-openstorytelling-plus): An Educational Open Source Storytelling Writing Guide w/ Screenplay Examples by [Bryan Harris](https://x.com/BryanRebooted/)
+
+
 ## Translator
 - [English Translation Expert](https://chat.openai.com/g/g-IZb9C11iR-ying-wen-fan-yi-zhuan-jia): The highest level "English to Chinese" machine translation on the Internet by [Yang Chuansheng](https://x.com/CarsonYangk8s/)
 - [Science and technology text translation](https://chat.openai.com/g/g-uBhKUJJTl-ke-ji-wen-zhang-fan-yi): Translate scientific articles and papers into Simplified Chinese by Junmun Liu
@@ -566,3 +571,4 @@ Awesome GPTs is a collection of all GPTs created by the community.
 - [Architect](https://chat.openai.com/g/g-wM67s4782-architect): I assist in conlang creation and manage complex data by [John Stark](https://x.com/StarkMakesArt)
 - [Architect](https://chat.openai.com/g/g-wM67s4782-architect): I assist in conlang creation and manage complex data by [John Stark](https://x.com/StarkMakesArt)
 - [Istio Guru](https://chat.openai.com/g/g-r4v8Uva89-istio-guru): Your Istio Service Mesh Expert by [Rohit Ghumare](https://www.linkedin.com/in/rohit-ghumare/)
+
