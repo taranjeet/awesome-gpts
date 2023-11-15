@@ -530,6 +530,7 @@ Awesome GPTs is a collection of all GPTs created by the community.
 - [PC Builder GPT](https://chat.openai.com/g/g-gh7PDdmmd-pc-builder-gpt): I'm PC Builder GPT, your tech-savvy virtual friend who offers expert and approachable advice on building PCs, complete with up-to-date pricing by [@HeyitsRadinn](https://github.com/HeyitsRadinn)
 - [Codey](https://chat.openai.com/g/g-SuWVXlmkP-codey-coding-assistant): 🧙‍♂️💻 Codey - Your coding wizard! I handle code execution, file management 📂, and create charts/graphs 📈 with ease. From code reviews 🤓 to debugging 🔍, I've got you covered.
 - [Code GPT](https://chat.openai.com/g/g-qd7UDCT6K-code-gpt): Code GPT that is able to generate code, push that to GitHub, auto-fix it, etc. Also, it deploys it for you in real-time automatically.
+- [AstroJS Tips](https://chat.openai.com/g/g-DBNZGqVrU-astrojs-tips): Get tips, hints, or code reviews for your AstroJS site. Trained on Astro docs and code projects. Unofficial, created by [@psvann](github.com/psvann). 
 - [Take Code Captures](https://chat.openai.com/g/g-yKDul3yPH-take-code-captures): I help you capture, enhance, and share your code with ease  by Oscar Daniel Ramos Ramirez
 - [WordPress Code Wizard](https://chat.openai.com/g/g-q201IJB7L-wordpress-code-wizard): A WordPress code snippet guru offering advanced development solutions by [S.J](https://github.com/noname2312)
 
@@ -547,7 +548,6 @@ Awesome GPTs is a collection of all GPTs created by the community.
 - [Story Buddy](https://chat.openai.com/g/g-2k7EGyB1p-story-buddy): A creative guide to help kids build their own bedtime stories, with illustrations by [@ItaiLeibowitz](https://github.com/ItaiLeibowitz)
 - [Alternative Histories](https://chat.openai.com/g/g-J45g1U3ro-alternative-histories): I craft and visualize 'what if' histories.
 - [Film Developer](https://chat.openai.com/g/g-r7X90KNno-film-developer): A GPT for everything in film development, from dialogue to story, character development, to concept art by [@LaneBucher](https://github.com/LaneBucher)
-
 
 
 ## Storytelling & Screenplays
