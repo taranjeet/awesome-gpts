@@ -471,6 +471,7 @@ Awesome GPTs is a collection of all GPTs created by the community.
 - [Automation Consultant](https://chat.openai.com/g/g-ERKZdxC6D-automation-consultant-by-zapier): Discover opportunities to save time with automation at work and get them setup for you by Zapier
 - [Notion](https://chat.openai.com/g/g-q3SfBZl0B-notion): Advise and tips on using Notion by [Jan Hecker](https://www.linkedin.com/in/janhecker/)
 - [Directory Bot](https://chat.openai.com/g/g-Iuv1AxdXm-directory-bot): Guiding you to the right GPT by [Manoj Mahalingam](https://www.linkedin.com/in/manojlds/)
+- [OCR](https://chat.openai.com/g/g-wETMBcESv-ocr): Extract text and content from images or PDF documents by [ocr.chat](https://get.ocr.chat/gpt)
 - [Ask Dr. Andrew Huberman](https://chat.openai.com/g/g-1xC65osMP-ask-dr-andrew-huberman): Maximize your productivity, physical and mental health with neuroscience. Trained with all the podcast episodes from Huberman Lab by [@jyboy](https://github.com/jyboy)
 - [excel VBA magica](https://chat.openai.com/g/g-MaUnLcGuA-vba-mabeobsa): excel VBA magica [Create Excel VBA code easily] by [@himomohi](https://github.com/himomohi)
 
@@ -506,7 +507,6 @@ Awesome GPTs is a collection of all GPTs created by the community.
 - [YAML Helper](https://chat.openai.com/g/g-KsnQa2ux5-yaml-helper): Fix YAML syntax errors in Helm charts and YAML files by [Sharon Sahadevan](https://www.linkedin.com/in/sharonsahadevan/)
 - [Test-Driven Code Companion](https://chat.openai.com/g/g-jCcHbTz23-test-driven-code-companion): A code companion that follows the rule of test-driven development to help you write safe and proven code by [@FlorianVal](https://github.com/FlorianVal)
 - [WordPress Wizard](https://chat.openai.com/g/g-Bqrx4gDgK-wordpress-wizard): Offers expert advice for creating custom WordPress websites by [@stefanzihlmann](https://github.com/stefanzihlmann)
-- [OCR](https://chat.openai.com/g/g-wETMBcESv-ocr): AI assistant to extract text from images and pdf documents by [@docduo](https://github.com/docduo)
 - [Professional Coder (Auto programming)](https://chat.openai.com/g/g-HgZuFuuBK-professional-coder-auto-programming): A GPT expert at solving programming problems, automatic programming, one-click project generation
 - [Data Science Project Generator: Project Suggestions](https://chat.openai.com/g/g-fvy71gm4A-data-science-project-generator): Offers data science project ideas and tips by [@vasarmilan](https://github.com/vasarmilan)
 - [Colab Code Crafter: Google Colab Code](https://chat.openai.com/g/g-kqbmidwnU-colab-code-crafter): Get Python code from a GPT tuned to make code that runs in the Google Colaboratory environment by [@David-Deans](https://github.com/David-Deans)
