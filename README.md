@@ -502,6 +502,7 @@ Awesome GPTs is a collection of all GPTs created by the community.
 - [StreamlitGPT](https://chat.openai.com/g/g-ucLFVBWHR-streamlitgpt): Code reviews from a Streamlit expert by [Tyler Richards](https://x.com/tylerjrichards/)
 - [SOL Code Guru](https://chat.openai.com/g/g-s8kgfZ9z0-sol-code-guru): Friendly Solana tech expert by [Alex](https://x.com/AlexBSLCo/)
 - [Supabase Docs Writer](https://chat.openai.com/g/g-g0ObGf2Ow-supabase-docs-writer): Provides clear Supabase documentation help by [Paul Copplestone](https://twitter.com/kiwicopple)
+- [Node Mentor](https://chat.openai.com/g/g-mqQglGigC-node-mentor): Helps you with any Node.JS related issue and code. Writes, checks and fixes code. (It will also help with basic web development).
 - [Game QA Strategist](https://chat.openai.com/g/g-LrhUBrExn-game-qa-strategist): Plan QA tests and strategy based on recent code changes and game screenshots
 - [SindreGPT](https://chat.openai.com/g/g-df0ZoBF9N-sindregpt): Ask Sindre Sorhus anything (about code, app support, open source, personal stuff, etc). Sindre is a full-time open-source maintainer and app developer by [Sindre Sorhus](https://x.com/sindresorhus/)
 - [Seabiscuit - App Attack](https://chat.openai.com/g/g-d5y7yH2s7-seabiscuit-app-attack): Engineer Your Success by	[Seabiscuit.ai](https://seabiscuit.ai/)
@@ -527,6 +528,7 @@ Awesome GPTs is a collection of all GPTs created by the community.
 - [PC Builder GPT](https://chat.openai.com/g/g-gh7PDdmmd-pc-builder-gpt): I'm PC Builder GPT, your tech-savvy virtual friend who offers expert and approachable advice on building PCs, complete with up-to-date pricing by [@HeyitsRadinn](https://github.com/HeyitsRadinn)
 - [Codey](https://chat.openai.com/g/g-SuWVXlmkP-codey-coding-assistant): 🧙‍♂️💻 Codey - Your coding wizard! I handle code execution, file management 📂, and create charts/graphs 📈 with ease. From code reviews 🤓 to debugging 🔍, I've got you covered.
 - [Code GPT](https://chat.openai.com/g/g-qd7UDCT6K-code-gpt): Code GPT that is able to generate code, push that to GitHub, auto-fix it, etc. Also, it deploys it for you in real-time automatically.
+
 
 
 ## Translator
