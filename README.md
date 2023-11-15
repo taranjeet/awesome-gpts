@@ -3,28 +3,31 @@
 Awesome GPTs is a collection of all GPTs created by the community.
 
 ## Table of contents
-- [Artificial Intelligence](#artificial-intelligence)
-- [Automobile](#automobile)
-- [Business & Product](#business--product)
-- [Career Advice & Coaching](#career-advice--coaching)
-- [Content Creation & Writing](#content-creation--writing)
-- [Culinary](#culinary)
-- [Cybersecurity](#cybersecurity)
-- [Debate](#debate)
-- [Design](#design)
-- [Education](#education)
-- [Energy](#energy)
-- [Entertainment & Fun](#entertainment--fun)
-- [Finance & Economics](#finance--economics)
-- [Health](#health)
-- [Law & Taxes](#law--taxes)
-- [News](#news)
-- [Philosophy & Self Help](#philosophy--self-help)
-- [Productivity](#productivity)
-- [Programming Assitance](#programming-assistance)
-- [Storytelling & Screenplays](#storytelling--screenplays)
-- [Translator & Languages](#translator--languages)
-- [Miscellaneous](#miscellaneous)
+- [awesome-gpts](#awesome-gpts)
+  - [Table of contents](#table-of-contents)
+  - [Artificial Intelligence](#artificial-intelligence)
+  - [Automobile](#automobile)
+  - [Business \& Product](#business--product)
+  - [Career Advice \& Coaching](#career-advice--coaching)
+  - [Content Creation \& Writing](#content-creation--writing)
+  - [Culinary](#culinary)
+  - [Cybersecurity](#cybersecurity)
+  - [Debate](#debate)
+  - [Design](#design)
+  - [Education](#education)
+  - [Energy](#energy)
+  - [Entertainment \& Fun](#entertainment--fun)
+  - [Finance \& Economics](#finance--economics)
+  - [Health](#health)
+  - [Law \& Taxes](#law--taxes)
+  - [News](#news)
+  - [Philosophy \& Self-help](#philosophy--self-help)
+  - [Productivity](#productivity)
+  - [Programming Assistance](#programming-assistance)
+  - [Storytelling \& Screenplays](#storytelling--screenplays)
+  - [Translator](#translator)
+  - [Travel](#travel)
+  - [Miscellaneous](#miscellaneous)
 
 
 ## Artificial Intelligence 
@@ -529,6 +532,7 @@ Awesome GPTs is a collection of all GPTs created by the community.
 - [PC Builder GPT](https://chat.openai.com/g/g-gh7PDdmmd-pc-builder-gpt): I'm PC Builder GPT, your tech-savvy virtual friend who offers expert and approachable advice on building PCs, complete with up-to-date pricing by [@HeyitsRadinn](https://github.com/HeyitsRadinn)
 - [Codey](https://chat.openai.com/g/g-SuWVXlmkP-codey-coding-assistant): 🧙‍♂️💻 Codey - Your coding wizard! I handle code execution, file management 📂, and create charts/graphs 📈 with ease. From code reviews 🤓 to debugging 🔍, I've got you covered.
 - [Code GPT](https://chat.openai.com/g/g-qd7UDCT6K-code-gpt): Code GPT that is able to generate code, push that to GitHub, auto-fix it, etc. Also, it deploys it for you in real-time automatically.
+- [AstroJS Tips](https://chat.openai.com/g/g-DBNZGqVrU-astrojs-tips): Get tips, hints, or code reviews for your AstroJS site. Trained on Astro docs and code projects. Unofficial, created by [@psvann](github.com/psvann). 
 
 
 
