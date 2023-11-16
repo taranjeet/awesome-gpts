@@ -529,6 +529,7 @@ Awesome GPTs is a collection of all GPTs created by the community.
 - [FitPal](https://chat.openai.com/g/g-zoXbeHp7G): AI fitness coach with workout visuals and resources.
 - [Physique Coach](https://chat.openai.com/g/g-nAVBYsZ93-physique-coach): Analyzing progress, setting goals, and giving feedback on your training plans.
 - [Pill Pal](https://chat.openai.com/g/g-oHDhbozdt-pill-pal): Organizes and tracks medication schedules.
+- [Dr. Paw Pal](https://chat.openai.com/g/g-W5b2mIvmp-dr-paw-pal): Your friendly AI Vet! Here to assist with all your pet care questions.
 
 
 ## Law & Taxes
