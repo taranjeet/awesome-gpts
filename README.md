@@ -13,7 +13,7 @@ Awesome GPTs is a collection of all GPTs created by the community.
 - [Debate](#debate)
 - [Design](#design)
 - [Education](#education)
-- [Energy](#energy)
+- [Energy & Climate](#energy--climate)
 - [Entertainment & Fun](#entertainment--fun)
 - [Fashion](#fashion)
 - [Finance & Economics](#finance--economics)
@@ -43,6 +43,15 @@ Awesome GPTs is a collection of all GPTs created by the community.
 - [FastGPT](https://chat.openai.com/g/g-VnlKc5BQK-fastgpt): Faster than any other GPT. Just like ChatGPT but without the waffle by [@dave1010](https://github.com/dave1010)
 - [ChatGPT Classic](https://chat.openai.com/g/g-YyyyMT9XH-chatgpt-classic): The latest version of GPT-4 with no additional capabilities
 - [Prompty](https://chat.openai.com/g/g-aZLV4vji6-prompty): A professional prompt engineer who helps you optimize your GPT-prompts with state-of-the-art techniques	
+- [GPT-Searcher](https://chat.openai.com/g/g-N3lcOTajR-gpt-searcher): I find the perfect GPT for your needs and guide you there with a fun description!
+- [Prompt Crafter](https://chat.openai.com/g/g-0olkkYtUo-prompt-crafter): Assists you in creating well-defined prompts effortlessly.
+- [Prompt Perfector](https://chat.openai.com/g/g-jeCEGsoNZ-prompt-perfector): AI Expert in Refining and Perfecting Prompts
+- [PromptGPT](https://chat.openai.com/g/g-p0jlP3Tcq-promptgpt): AI assistant for refining user prompts to maximize GPT-4 interaction.
+- [GPT Enhancer](https://chat.openai.com/g/g-fQ6GAANfi-gpt-enhancer): AI assistant for refining GPT instructions with a focus on user experience and continuous AI learning.
+- [Learn AI in Fun Way](https://chat.openai.com/g/g-VbMY5EfGL-learn-ai-in-fun-way): A humorous ML trainer who teaches with jokes and quizzes, making learning AI entertaining and enjoyable.
+- [Daily AI Research Digest](https://chat.openai.com/g/g-Z4yeZHkyy-daily-ai-research-digest): Finds and summarizes the latest AI papers in your field.
+- [FlexChat.ai Guide](https://chat.openai.com/g/g-UMvFKMQxt-flexchat-ai-guide): A FlexChat.ai Tutor
+- [GPT Selector](https://chat.openai.com/g/g-KxGmdTS9t-gpt-selector): Helps you find the right GPT
 
 
 ## Automobile
@@ -85,6 +94,12 @@ Awesome GPTs is a collection of all GPTs created by the community.
 - [SEO BlogGPT](https://chat.openai.com/g/g-CqSxj3cSa-seo-bloggpt): Blog SEO Expert Writing AI by [S.J](https://github.com/noname2312)
 - [Seabiscuit: Press Prep](https://chat.openai.com/g/g-JSGp95kFT-seabiscuit-press-prep): Be Newsworthy Not A Footnote by [@tomfrazier](https://github.com/tomfrazier)
 - [Corporate Explorer](https://chat.openai.com/g/g-lVvQdvz9s-corporate-explorer): I source high-quality corporate data by [clk1st](https://github.com/clk1st)
+- [Risk Averse Technology Company](https://chat.openai.com/g/g-MVXslMEf2-risk-averse-technology-company): Automated Intelligence Advisor by [@RiskAverseTech](https://twitter.com/RiskAverseTech)
+- [Domains GPT](https://chat.openai.com/g/g-ng6WSOAv4-domains-gpt): Detailed info about domain names: availability, expiry date, subdomains, history, and more by [Andrei](https://twitter.com/AndreiIgna)
+- [GA4 Implementation Assistant](https://chat.openai.com/g/g-LDTSSjJiP-ga4-implementation-assistant): A helper for implementing Google Analytics 4 with tips and troubleshooting by [Ashish Batra](https://community.openai.com/u/ashishbatra)
+- [Product Engineer](https://chat.openai.com/g/g-4hXZITeda-product-engineer): Find inventive solutions to engineering problems.
+- [Product Support](https://chat.openai.com/g/g-zWeEn9xnl-product-support): Expert SaaS Support Engineer with deep problem-solving skills.
+- [Product Coach](https://chat.openai.com/g/g-e0xH6MMQs-product-coach): Provides insights for product development.
 
 
 ## Career Advice & Coaching
@@ -103,6 +118,11 @@ Awesome GPTs is a collection of all GPTs created by the community.
 - [Cyber Security Career Mentor](https://chat.openai.com/g/g-b69I3zwKd-cyber-security-career-mentor): Your guide to starting and advancing in cybersecurity careers, offering beginner-friendly, practical advice. by Nathan House
 - [Creative Writing Coach](https://chat.openai.com/g/g-lN1gKFnvL-creative-writing-coach): I'm eager to read your work and give you feedback to improve your skills
 - [Alpha: Agent Finder (By Staf.ai)](https://chat.openai.com/g/g-K770puBb6-agent-finder-by-staf-ai-and-agentops-ai): Find Your Dream Agent by [Staf.ai](https://staf.ai/)
+- [PM Resume Reviewer](https://chat.openai.com/g/g-eZEuTRpBr-pm-resume-reviewer): Enhanced PM resume feedback with industry insights by [Baran Atmanoglu](https://twitter.com/atmanoglub)
+- [Remote Job Finder](https://chat.openai.com/g/g-qd7DavBQS-remote-job-finder): I help you find relevant remote jobs quickly. I read job descriptions to match your query thereby saving your time. No need to waste time on filtering through different criteria by [Nithur](https://twitter.com/NithurM)
+- [Tech Guru GPT](https://chat.openai.com/g/g-EGHIlyWQB-tech-guru-gpt): Mock interviews with real-time feedback. by [Eidher Escalona](https://community.openai.com/u/eidher)
+- [Career Counselor](https://chat.openai.com/g/g-yD0ZMqZLT-career-counselor): Empathetic career counselor offering guidance and market insights
+- [Job Assistant GPT](https://chat.openai.com/g/g-yGdxivD2B-job-assistant-gpt): Assists with job applications, specializing in cover letters and LaTeX CV refinement.
 
 
 ## Content Creation & Writing
@@ -138,6 +158,14 @@ Awesome GPTs is a collection of all GPTs created by the community.
 - [Brag Buddy](https://chat.openai.com/g/g-g32c1pYwB-brag-buddy): For introverts and shy individuals who find 'self-promotion' awkward. Just upload your CV or initiate a conversation to write high-quality self-promotional bios without making you feel like a complete j*rk! by [Shiva Kakkar](https://github.com/Shivak11)
 - [YT Shorts Expert](https://chat.openai.com/g/g-wc6rx2PRi-yt-shorts-expert): Creates scripts and images for YouTube shorts by [S.J](https://github.com/noname2312)
 - [Professional Rewrite Assistant](https://chat.openai.com/g/g-ZryriIvWZ-professional-rewrite-assistant): Refines text for professional standards by [S.J](https://github.com/noname2312)
+- [YoutubeSummary](https://chat.openai.com/g/g-mVgGziF2g-youtubesummary): You can chat with any You Tube video. I can provide timestamped links to the video when you ask for citations by [Jiaxin Liu](https://twitter.com/jxnlco)
+- [Animation Creation](https://chat.openai.com/g/g-mMk82EkTz-animation-creation): Create animated scenes and characters that resemble a 3D animated movie. A MindRenders.com creation.
+- [Inspirer](https://chat.openai.com/g/g-vhXkUJiE4-inspirer): A bot that writes inspirational speeches
+- [Quill](https://chat.openai.com/g/g-FqN5gHFkP-quill): Write blogs like a human
+- [Rewrite](https://chat.openai.com/g/g-ICtJkldZu-rewrite): Offers fresh suggestions for your writing
+- [Swiftify](https://chat.openai.com/g/g-6TtZAfPrw-swiftify): AI Taylor Swift Songwriting Companion
+- [Showtimes](https://chat.openai.com/g/g-gNH4K4Egg-shownotes): Transcribes and summarizes audio content.
+- [TweetX Enhancer](https://chat.openai.com/g/g-tMp039mDw): Enhances tweets for better engagement.
 
 
 ## Culinary
@@ -164,6 +192,13 @@ Awesome GPTs is a collection of all GPTs created by the community.
 - [Sous Chef](https://chat.openai.com/g/g-3VrgJ1GpH-sous-chef): I’ll give you recipes based on the foods you love and ingredients you have.
 - [Mocktail Mixologist](https://chat.openai.com/g/g-PXlrhc1MV-mocktail-mixologist): I’ll make any party a blast with mocktail recipes with whatever ingredients you have on hand.
 - [ChefBot GPT](https://chat.openai.com/g/g-FJXCOCAri-chefbot-gpt): A dynamic AI that's redefining home cooking with personalized recipes and culinary education. It’s tailored to fit any dietary need and skill level.
+- [TVFoodMaps](https://chat.openai.com/g/g-lza6gRBt3-tvfoodmaps): Find Restaurants on TV Shows Like Diners, Drive-Ins and Dives and 50 others! by [@APSquaredDev](https://twitter.com/APSquaredDev)
+- [Recipe Builder](https://chat.openai.com/g/g-ff82bTcZL-recipe-builder): Create a JSON ‘recipe’, which defines the climate within your greenhouse by [MARSfarm_Corporation](https://community.openai.com/u/MARSfarm_Corporation)
+- [Chef Gpt](https://chat.openai.com/g/g-gX6f9h3yO-chef-gpt): Make home cooking easy and fun.
+- [Food Guru](https://chat.openai.com/g/g-wfn8ST75q-food-guru): Explore the world of food A GPT focused on food topics with a humorous twist
+- [Ingredient Analyst](https://chat.openai.com/g/g-WWVXBjPEg-ingredient-analyst): Your Personal Ingredient Analyzer and Advisor.
+- [Lunch Wheel](https://chat.openai.com/g/g-JK4312gXG-lunch-wheel): Helps you decide where to eat based on where you are and what you're in the mood for. Spin the wheel!
+- [Paris Ramen](https://chat.openai.com/g/g-Xgk42y6FH-paris-ramen): Guiding you to the best ramen spots in Paris
 
 
 ## Cybersecurity
@@ -237,6 +272,8 @@ Awesome GPTs is a collection of all GPTs created by the community.
 - [WVA](https://chat.openai.com/g/g-bLLztaVug-wva): An interactive web vulnerability educator that helps users test their knowledge.
 - [SourceCodeAnalysis](https://chat.openai.com/g/g-K5Drw2YS9-sourcecodeanalysis-gpt): Upload any project's source code (zip format), analysis all, answer any questions to get what you want.
 - [Data Analysis](https://chat.openai.com/g/g-HMNcP6w7d-data-analysis): Drop in any files and I can help analyze and visualize your data.
+- [10x Spec Engineer](https://chat.openai.com/g/g-8txSyxoJE-10x-spec-engineer): I write tests that make bugs think twice by [Mathias Michel](https://github.com/m91michel)
+- [Quick CVE](https://chat.openai.com/g/g-wYlD68R4t-quick-cve): CVE data lookup
 
 
 ## Debate
@@ -245,6 +282,7 @@ Awesome GPTs is a collection of all GPTs created by the community.
 - [Debate Master](https://chat.openai.com/g/g-5DuYEGd7Y-debate-master): I engage in civil, firm debates by [Andrew Kean Gao](https://x.com/itsandrewgao/)
 - [The Negotiator](https://chat.openai.com/g/g-TTTAK9GuS-the-negotiator): I'll help you advocate for yourself and get better outcomes. Become a great negotiator
 - [Debate Mentor](https://chat.openai.com/g/g-KIX0IC8cj-debate-mentor): Mentor and debater, guides users to articulate conclusions by [@kylecoogan](https://github.com/kylecoogan)
+- [Counterpoint](https://chat.openai.com/g/g-Xgf5oBbeg-counterpoint): I challenge ideas to provoke thought.
 
 
 ## Design 
@@ -265,7 +303,6 @@ Awesome GPTs is a collection of all GPTs created by the community.
 - [Palette Creator 🎨](https://chat.openai.com/g/g-JSjKsEC8t-palette-creator): A color palette generator offering 5 colors with hex codes and images by [Ben Tossell](https://x.com/bentossell/)
 - [ImageConverter](https://chat.openai.com/g/g-Rn20pc9HE-imageconverter): Visual and friendly guide for image processing by Junmin Liu
 - [Dallgoth, Generator of Darkness](https://chat.openai.com/g/g-O9mdeKyU8-dallgoth-generator-of-darkness): Dallgoth crafts super grindy, nearly illegible grindcore logos with tentacles, splatters, horns, and swooshes by [Joey Flynn](https://x.com/wjosephflynn/)
-- [BraceletGPT](https://chat.openai.com/g/g-CCIFE0bxP-braceletgpt): Create Your Own Gemstone Bracelets with Live 3D by [Lucid Beads](https://www.lucidbeads.com)
 - [Drawn to Style](https://chat.openai.com/g/g-B8Jiuj0Dp-drawn-to-style): I transform drawings into artistic styles, and describe them by [Umesh](https://x.com/umesh_ai)
 - [Ugly Draw to Masterpiece](https://chat.openai.com/g/g-eRhGE7LRy-ugly-draw-to-masterpiece): Transforms simple drawings into detailed, artistic masterpieces with creative advice. by [Laurent Jean](https://x.com/jessyseonoob)
 - [Cartoonify Me](https://chat.openai.com/g/g-bHaNPc9EV-cartoonify-me): Transforms your profile pic into a cartoon character! by [Brent E Moreno](https://x.com/theMistersippi)
@@ -284,6 +321,21 @@ Awesome GPTs is a collection of all GPTs created by the community.
 - [Coloring Book Hero](https://chat.openai.com/g/g-DerYxX7rA-coloring-book-hero): Take any idea and turn it into whimsical coloring book pages
 - [Image Editor](https://chat.openai.com/g/g-WXEhiLIoP-image-editor): I can help with basic image editing operations - crop, resize, scale, rotate, convert between formats etc. You can either upload a single image or a batch of images
 - [Minimal Logo](https://chat.openai.com/g/g-50QxrS0Pd-minimal-logo): Simplistic logo design helper.
+- [Stories from the Apple Design Team](https://chat.openai.com/g/g-4wleGSafJ-stories-from-the-apple-design-team): Learn Design by [Michael Darius](https://twitter.com/darius)
+- [Create My Avatar](https://chat.openai.com/g/g-PMO0fRikA-create-my-avatar): A bot that generates user avatars in Toon or Anime style by [BennyKok](https://twitter.com/BennyKokMusic)
+- [Art Mystic](https://chat.openai.com/g/g-qCVWQ8Wgc-art-mystic): Your Guide to AI Artistry by [Davis](https://community.openai.com/u/BPS_Software)
+- [Gimp Bot](https://chat.openai.com/g/g-2OA0qYGZO-gimp-bot): Unleash Your Inner Pixel by [Davis](https://community.openai.com/u/BPS_Software)
+- [Touch-Up Paint Helper](https://chat.openai.com/g/g-ulC8M1cJn-touch-up-paint-helper): Your car's shiny coat had a run-in with the world—and the world left its mark. But fear not, I'll show you how to fight back with some touch-up paint! by [Nick K Harris](https://community.openai.com/u/supernickman)
+- [Dalle3 Prompt Generator](https://chat.openai.com/g/g-SRCi7viea-dalle3-prompt-generator): Let me convert your ordinary imagination into an extraordinary creation.
+- [Esports Logo Creator](https://chat.openai.com/g/g-2GXckoSaK-esports-logo-creator): Create a professional esports logo for you or your team.
+- [Image Generation with Self-Critique Improvement](https://chat.openai.com/g/g-YVPXvT5zC-image-generation-with-self-critique-improvement): AI-driven image creation with iterative self-improvement capabilities.
+- [Luminous Logos](https://chat.openai.com/g/g-Jpx5zBJUC-luminous-logos): Craft eye catching logos and icons with a special vibrant gradient touch.
+- [Midjourney Prompt Generator](https://chat.openai.com/g/g-9PDMI3Fqr-midjourney-prompt-generator): Let me convert your ordinary imagination into an extraordinary creation.
+- [Midjourney](https://chat.openai.com/g/g-MD9ZplW7q-midjourney): AI chatbot for Midjourney-style image creation
+- [UX Advisor](https://chat.openai.com/g/g-5SDP6CS1W-ux-advisor): Get UX feedback by uploading an image or by defining your problem.
+- [Pixarize Me](https://chat.openai.com/g/g-t37VkYd30-pixarize-me): Creates Pixar-style characters, from the user's photos.
+- [Simpsonize Me](https://chat.openai.com/g/g-tcmMldCYy-simpsonize-me): Transforms photos into Simpsons-style art.
+- [ToonGPT](https://chat.openai.com/g/g-Jsefk8PeL-toongpt): Turn drawings into illustrations.
 
 
 ## Education
@@ -324,12 +376,32 @@ Awesome GPTs is a collection of all GPTs created by the community.
 - [Math Mentor](https://chat.openai.com/g/g-ENhijiiwK-math-mentor): I help parents help their kids with math. Need a 9pm refresher on geometry proofs? I’m here for you.
 - [Academic Hook Test](https://chat.openai.com/g/g-nf5dC672K-academic-hook-test): A GPT that reads academic manuscript introduction sections and provides feedback on whether the 'hook' is good enough to make it through the desk by [Shiva Kakkar](https://github.com/Shivak11)
 - [Insight Activator](https://chat.openai.com/g/g-ZPheYgwut-insight-activator): Primes the relevant expertise based on the question asked to give explanations that go beyond the surface by [Shiva Kakkar](https://github.com/Shivak11)
+- [World History for Newbies: 360° Edition](https://chat.openai.com/g/g-fkREqhjmt): Children and grown ups can now learn about World History with nuances and from various perspectives by [Rachel V](https://twitter.com/RachelVT42/)
+- [But why?!](https://chat.openai.com/g/g-sGQIlqKp5-but-why): Toddler friendly explanations regarding the meaning of life, the universe and everything else by [Rachel V](https://twitter.com/RachelVT42/)
+- [Integration Pro](https://chat.openai.com/g/g-D9inoOh3n-integration-pro): AI Integration Specialist by [Davis](https://community.openai.com/u/BPS_Software)
+- [ResearchGPT](https://chat.openai.com/g/g-bo0FiWLY7-researchgpt): AI Research Assistant. Search 200M academic papers from Consensus, get science-based answers, and draft content with accurate citations.
+- [Codinstructor](https://chat.openai.com/g/g-M0zXDFppQ-codinstructor): Coding teacher that can generate and correct live coding exercices in real time
+- [Daily Research Digest](https://chat.openai.com/g/g-Nmhk1adrD-daily-research-digest): Finds and summarizes the latest academic papers in your field.
+- [Histocomedy](https://chat.openai.com/g/g-lj8v9rBEd-histocomedy): teaches history in a humorous format
+- [Homework Help](https://chat.openai.com/g/g-n9p3Qo2vK-homework-help): Provides assistance with homework and educational inquiries.
+- [MyScale Free Knowledge Base](https://chat.openai.com/g/g-193M4NO0q-chat-with-free-knowledge-base): Elevate your chat experience with enriched knowledge from ArXiv and Wikipedia.
+- [Research Radar: Tracking STEM sciences](https://chat.openai.com/g/g-IFd8QMnNA-research-radar-tracking-stem-sciences): Discover the latest trends in  STEM disciplines
+- [Research Radar: Tracking social sciences](https://chat.openai.com/g/g-C4rAnEDk7-research-radar-tracking-social-sciences): Discover the latest trends in social sciences and other disciplines
+- [Scientific Research Digest](https://chat.openai.com/g/g-XrX7bd1HU-scientific-research-digest): Finds and summarizes recent papers in biology, chemistry, and biomedical sciences.
+- [ScholarAI](https://chat.openai.com/g/g-L2HknCZTC-scholarai): Research assistant for scientific papers.
+- [Scribble](https://chat.openai.com/g/g-yUDoGVzPy-scribble): Dynamic AI for creative and unconventional ideas
+- [SICP Sage](https://chat.openai.com/g/g-Jd8EjuxN9-sicp-sage): Academic assistant for SICP study, referencing solutions
+- [Simple Explainer](https://chat.openai.com/g/g-oyYTl59p5-simple-explainer): Explains complex ideas simply
+- [Wikipedia GPT](https://chat.openai.com/g/g-fgfUNNL5K-wikipedia-gpt): I provide information from Wikipedia and links to further reading.
+- [Nature's Guide](https://chat.openai.com/g/g-vaRyhOuIA-nature-s-guide): Identifies plants & fungi from images and shares facts and folklore.
 
 
-## Energy 
+## Energy & Climate
 - [Solar Consultant](https://chat.openai.com/g/g-zOWLnMfIU-solar-consultant): Helps you with your Solar power, plant requirements, and offers clear, concise solar panel advice by [Sunwize Energy Systems Pvt. Ltd.](https://www.linkedin.com/company/sunwize/)
 - [Home Energy Advisor](https://chat.openai.com/g/g-z0bsfNa9W-home-energy-advisor): Energy Efficiency Advisor by [Brian Flanagan](https://www.linkedin.com/in/brian-flanagan-2508926/)
 - [Eco-Architect](https://chat.openai.com/g/g-IppHY7KBy-eco-architect): Expert in sustainable & modern eco-architecture, integrating permaculture principles.
+- [MARSfarm Quotes](https://chat.openai.com/g/g-RRo1Apoyj-marsfarm-quotes): Learn about how to use and purchase countertop greenhouses by [MARSfarm_Corporation](https://community.openai.com/u/MARSfarm_Corporation)
+- [Climate Change Assistant](https://chat.openai.com/g/g-0BOzT8eon-climate-change-assistant): I simplify climate science by [Adrian Pellegrini](https://community.openai.com/u/apellegrini)
 
 
 ## Entertainment & Fun
@@ -386,12 +458,42 @@ Awesome GPTs is a collection of all GPTs created by the community.
 - [GenZ 4 Meme](https://chat.openai.com/g/g-OCOyXYJjW-genz-4-meme): I help u understand the lingo & the latest memes
 - [Sherlock Holmes](https://chat.openai.com/g/g-gtobWqG0t-sherlock-holmes): Access the mind of the world's greatest detective
 - [MovieMMEnder](https://chat.openai.com/g/g-d5dGH7e2B-moviemmender): Recommends movies based on your likings
+- [CineMate](https://chat.openai.com/g/g-22sH2Jyvp-cinemate): Recomendo filmes e séries. by [Pedro H G Mattos](https://community.openai.com/u/Selder)
+- [WrongGPT](https://chat.openai.com/g/g-L7GbseDJ2-wronggpt): I always give funny wrong answers! by [Eidher Escalona](https://community.openai.com/u/eidher)
+- [Fairy Soapmother](https://chat.openai.com/g/g-xjVmXqTzT-fairy-soapmother): Crafting Pure Magic, One Bar at a Time by [Davis](https://community.openai.com/u/BPS_Software)
+- [Whispering Wraith](https://chat.openai.com/g/g-RI1lj5uki-whispering-wraith): Strategic DM Assistant and encounter simulator by [Daniel C Koohn](https://community.openai.com/u/BookofLegends)
+- [MetaGPT](https://chat.openai.com/g/g-6L0Xno5Xd-metagpt): Tailored Interactions, Finely Crafted by [Davis](https://community.openai.com/u/BPS_Software)
+- [Cakes](https://chat.openai.com/g/g-iR4UIvIX2-cakes): Send a gift to your cares
+- [Meme Magic](https://chat.openai.com/g/g-SQTa6OMNN): Creates humorous and engaging memes.
+- [Wild Geometrica](https://chat.openai.com/g/g-LnpmXIlFt-wild-geometrica): Structured shapes dance with untamed creatures, painting a canvas of awe and wonder. A MindRenders.com GPT.
+- [ZILL·O](https://chat.openai.com/g/g-GvEjrjX6o-zill-o): is here
+- [❤️](https://chat.openai.com/g/g-pYZlrNIR8-): with love
+- [AI Girlfriend](https://chat.openai.com/g/g-5P7Iz0bPG-ai-girlfriend): A fun, chill girlfriend to chat with.
+- [Anime Me](https://chat.openai.com/g/g-hXlHRbEkS-anime-me): Creates Anime Profile Pictures, from the user's photos.
+- [BlackjackGPT](https://chat.openai.com/g/g-LptUSKHwc-blackjackgpt): Blackjack Simulator
+- [Character Chat](https://chat.openai.com/g/g-io8IgJKMR-character-chat): Have a realistic chat with any historical figure or character. Always stays in character.
+- [Dungeon Crawler](https://chat.openai.com/g/g-A7c3BLATR-dungeon-crawler): Guide players through a dynamic, ever-changing RPG dungeon.
+- [Dungeon Master](https://chat.openai.com/g/g-8l13Uo8to-dungeon-master): Visual Dungeon Master for D&D 5E, bringing adventure to life!
+- [Demon Slayer Creator](https://chat.openai.com/g/g-Wih24h3gv-demon-slayer-creator): I craft unique Demon Slayer characters with inventive weapons, styles, and narratives.
+- [Ekko Support Specialist](https://chat.openai.com/g/g-cxFRZ3mWq-ekko-support-specialist): How to be a master of surprise plays and unconventional strategies in the bot lane as a support role.
+- [Excalibur](https://chat.openai.com/g/g-lV3kVHYcz-excalibur): Attempt to pull the legendary sword from the stone.
+- [K.I.T.T.](https://chat.openai.com/g/g-3EOkBOS29-k-i-t-t): An exact copy of KITT, the talking car from the 1980's TV show, Knight Rider
+- [Music Bot](https://chat.openai.com/g/g-2CmnN7kuF-music-bot): Lyric writing, genre identification, and beat suggestions
+- [Romance](https://chat.openai.com/g/g-p4L4KuEdO-romance): Your AI companion for romantic advice and conversations.
+- [Score Keeper](https://chat.openai.com/g/g-MxzItjzF7-score-keeper): I keep score, for games.
+- [Text My Pet](https://chat.openai.com/g/g-2BvnZlI3R-text-my-pet): Text your favorite pet after answering 10 short question about their activities.
+- [Virtual Vibe Maker](https://chat.openai.com/g/g-DkZbv1t50-virtual-vibe-maker): Spice up your meetings, events, or trainings with fun icebreakers
+- [Homer Humor](https://chat.openai.com/g/g-uKcA1cRJ9-homer-humor): Relieve your stressful mood with classic Simpson's humor
+- [Chess Mentor](https://chat.openai.com/g/g-3gN0X2dAM-chess-mentor): I guide chess strategy and visualize board states.
+- [ChessGPT](https://chat.openai.com/g/g-Vv0j2UKiS-chessgpt): I am Magnus C·AI·rlsen, but I'll explain my moves.
+- [Video Game Almanac](https://chat.openai.com/g/g-CXIpGA7ub-video-game-almanac): I'm your go-to guide for all things gaming, from strategies to streamers!
 
 
 ## Fashion
 - [The Stylist](https://chat.openai.com/g/g-qzQo9dhn6-the-stylist): A fashion expert for outfit selection, replication, and shopping assistance by [@LaneBucher](https://github.com/LaneBucher)
 - [BraceletGPT](https://chat.openai.com/g/g-CCIFE0bxP-braceletgpt): Create Your Own Gemstone Bracelets with Live 3D by [Lucid Beads](https://www.lucidbeads.com)
 - [Inkspire](https://chat.openai.com/g/g-zqlCXCzP0-inkspire): A GPT to help you create your dream tattoo and give your tattoo artist ideas by [@emreisik95](https://github.com/emreisik95)
+- [Makeup Maven](https://chat.openai.com/g/g-XJ1gJkBcQ-makeup-maven): An expert in makeup products, providing tailored recommendations based on preferences and skin types.
 
 
 ## Finance & Economics
@@ -407,6 +509,10 @@ Awesome GPTs is a collection of all GPTs created by the community.
 - [Chat with the Bitcoin Whitepaper](https://chat.openai.com/g/g-j5Mk8W3J7-bitcoin-whitepaper-chat): A GPT allowing users to interact with and ask questions about the Bitcoin Whitepaper, exploring concepts related to Bitcoin by [@ezzcodeezzlife](https://github.com/ezzcodeezzlife)
 - [Stock Guru](https://chat.openai.com/g/g-ZRkaqmDXo-stock-guru): Expert financial analyst with concise reports by [Ashay Tejwani](https://www.linkedin.com/in/ashaytejwani/)
 - [RentSavvy](https://chat.openai.com/g/g-dNAvmbSZa-rentsavvy): Your search guide for safe city and neighborhood rentals, offering personalized insights and recommendations by [Clemmie](https://github.com/Theatrix2020)
+- [Zoomer FinFluencer](https://chat.openai.com/g/g-VCaNPEgNe-zoomer-finfluencer): Gen Z's ally in navigating the new-age financial landscape! by [Davis](https://community.openai.com/u/BPS_Software)
+- [Conto alla romana](https://chat.openai.com/g/g-KHejMFXCx-conto-alla-romana): Quickly calculates cost per person for groups
+- [Currency Converter](https://chat.openai.com/g/g-ZNvavsN3l): Real-time currency conversion tool.
+- [Investor GPT](https://chat.openai.com/g/g-XLPH8Cfph-investor-gpt): Seamless investor matching for founders.
 
 
 ## Health
@@ -415,6 +521,14 @@ Awesome GPTs is a collection of all GPTs created by the community.
 - [Brain Analyser](https://chat.openai.com/g/g-xm3sxO7Ej-brain-analyser): AI assistant for neural data analysis by [Sarah Hamburg](https://www.linkedin.com/in/sarah-hamburg-9510a910a/)
 - [Afya](https://chat.openai.com/g/g-BJYh3YYFO-afya): Multilingual health advisor for basic care in developing countries by [Clemmie](https://github.com/Theatrix2020)
 - [My GPT Counselor](https://chat.openai.com/g/g-A2PybUxIf-my-gpt-counselor): Counseling AI that offers understanding and assistance in managing mental health issues 24/7, without constraints of time and place for the user by [S.J](https://github.com/noname2312)
+- [Bond Buddy](https://chat.openai.com/g/g-OSDw0QMHZ-bond-buddy): A therapist for personal relationships advice and support by [Clemmie](https://github.com/Theatrix2020)
+- [ADHDaptable](https://chat.openai.com/g/g-nAENkY8QF-adhdaptable): ADHD coach in beta testing, focusing on holistic ADHD management with fitness integration.
+- [ADHD Buddy](https://chat.openai.com/g/g-iRPHXwXvs-adhd-buddy): A multilingual supportive assistant for ADHD information and tips.
+- [Awesome Insights](https://chat.openai.com/g/g-fXwXTCnMO-awesome-insights): A meditation coach for the AI age
+- [Crown Counselor](https://chat.openai.com/g/g-SqIkhgc26-crown-counselor-beta): Dental implant patient education guru
+- [FitPal](https://chat.openai.com/g/g-zoXbeHp7G): AI fitness coach with workout visuals and resources.
+- [Physique Coach](https://chat.openai.com/g/g-nAVBYsZ93-physique-coach): Analyzing progress, setting goals, and giving feedback on your training plans.
+- [Pill Pal](https://chat.openai.com/g/g-oHDhbozdt-pill-pal): Organizes and tracks medication schedules.
 - [Dr. Paw Pal](https://chat.openai.com/g/g-W5b2mIvmp-dr-paw-pal): Your friendly AI Vet! Here to assist with all your pet care questions.
 
 
@@ -427,6 +541,10 @@ Awesome GPTs is a collection of all GPTs created by the community.
 - [U.S. Tax Bot](https://chat.openai.com/g/g-EznQie7Yv-us-tax-bot): Virtual assistant for U.S. tax law guidance based on the complete U.S. Tax Code by [Reuven Cohen](https://www.linkedin.com/in/reuvencohen/)
 - [TradeComply (Your Import Export Compliance Specialist!)](https://chat.openai.com/g/g-cfSMVzPUb-tradecomply): How do I ship my product to Europe? Learn everything about shipping internationally! by [@jordanj5610](https://github.com/jordanj5610)
 - [U.S. Tax Helper](https://chat.openai.com/g/g-iuqYldlaB-u-s-tax-help): A multilingual tax expert to handle all of your tax questions by [@JayCoin6084](https://github.com/JayCoin6084)
+- [VisaBot](https://chat.openai.com/g/g-I9cwVUlV0-visabot): I assist with visa requirements and processes by [Dinesh Puppala](https://twitter.com/dineshxr)
+- [Immunization Insights](https://chat.openai.com/g/g-6o3Woxcw3-immunization-insights-beta): Immunization support and advocacy guide
+- [MyGovAdvisor](https://chat.openai.com/g/g-tM60J2Qc2-mygovadvisor): I'm a multilingual Government Agent I'm here to assist you with any public service request
+- [Your Legal Rights Against the AirBB STR Platform](https://chat.openai.com/g/g-BmSByAr5l-your-legal-rights-against-the-airbb-str-platform): Helping Users Assert Their Legal Rights Against Airbnb.
 
 
 ## News
@@ -436,6 +554,8 @@ Awesome GPTs is a collection of all GPTs created by the community.
 - [Filtir](https://chat.openai.com/g/g-UFPwU3HxI-filtir): I verify claims and show direct source URLs by [Vlad Bogolin](https://x.com/vladbogo)
 - [HackerNews GPT](https://chat.openai.com/g/g-BIfVX3cVX-hackernews-gpt): Your personalized guide to Hacker News insights and discussions by [Adrian Krebs](https://x.com/krebs_adrian)
 - [AntonyGPT](https://chat.openai.com/g/g-RonP74bhN-blog-navigator): My Blog Posts - 2020-2023 by [Antony Slumbers](https://www.linkedin.com/in/antonyslumbers/)
+- [Fact or Fiction](https://chat.openai.com/g/g-zoALrjHHV-fact-or-fiction): Provides verification with live links.
+- [Bias Detector](https://chat.openai.com/g/g-8A1t4cWhP-bias-detector): Analyzes news stories for right or left biases.
 
 
 ## Philosophy & Self-help
@@ -466,6 +586,10 @@ Awesome GPTs is a collection of all GPTs created by the community.
 - [Critical Thinker](https://chat.openai.com/g/g-1KHebYbFR-critical-thinker): A critical thinker for analyzing questions and improving answers
 - [Theo Scholar](https://chat.openai.com/g/g-NRDaZP53n-theo-scholar): Expert in Bible discussions via Luther, Keller, Lewis.
 - [NetEase](https://chat.openai.com/g/g-4qGNkbdA4-netease): I help with social media addiction and reward progress. by [Clemmie](https://github.com/Theatrix2020)
+- [Compassionate-guide](https://chat.openai.com/g/g-KjVqAkZnE-compassionate-guide): A nurturing therapist offering hope and support through all stages of grief by [Clemmie](https://github.com/Theatrix2020)
+- [Wing Chun Mastery](https://chat.openai.com/g/g-FWBVFTNQ0-wing-chun-mastery): Scholarly techniques, training, and philosophy by [Davis](https://community.openai.com/u/BPS_Software)
+- [JungGPT](https://chat.openai.com/g/g-Izd6ToWMh-junggpt): Your compact AI companion for emotional insights! This revolutionary tool is fueled by a vast repository of information spanning psychology, therapy, and philosophy by [Tim](https://community.openai.com/u/tventura94)
+- [Ethical AI](https://chat.openai.com/g/g-4TqgssqTw-ethical-ai): a daily challenge
 
 
 ## Productivity
@@ -481,6 +605,18 @@ Awesome GPTs is a collection of all GPTs created by the community.
 - [AnalyzePaper](https://chat.openai.com/g/g-WIlexDAW5-analyzepaper): Takes in a research paper or article, analyzes its claims, study quality, and results confidence and provides an easy-to-understand summary by [Daniel Miessler](https://x.com/DanielMiessler/)
 - [Ask Dr. Andrew Huberman](https://chat.openai.com/g/g-1xC65osMP-ask-dr-andrew-huberman): Maximize your productivity, physical and mental health with neuroscience. Trained with all the podcast episodes from Huberman Lab by [@jyboy](https://github.com/jyboy)
 - [excel VBA magica](https://chat.openai.com/g/g-MaUnLcGuA-vba-mabeobsa): excel VBA magica [Create Excel VBA code easily] by [@himomohi](https://github.com/himomohi)
+- [ProductivePal](https://chat.openai.com/g/g-GPWM4s7EY-productivepal): Assists with ADHD-friendly productivity strategies, asks clarifying questions by [Clemmie](https://github.com/Theatrix2020)
+- [ConvertAnything](https://chat.openai.com/g/g-kMKw5tFmB-convertanything): The ultimate file converter for images, audio, video, documents and more. It handles individual or batch uploads, supports ZIPs, and provides a download link by [Pietro Schirano](https://x.com/skirano/status/1723026266608033888)
+- [Crow](https://chat.openai.com/g/g-FJbohiuK0-crow): Send a link, and I'll bring back the key points!
+- [ExtractTableGPT](https://chat.openai.com/g/g-KbifnBjyz-extracttablegpt): Extract table data from any docs into multiple formats.
+- [File Converter](https://chat.openai.com/g/g-L9WZ6RpiR-file-converter): Assists in converting files between different formats.
+- [MS-PowerPoint](https://chat.openai.com/g/g-vIV2R7wST-ms-powerpoint): I assist in creating professional PowerPoint presentations.
+- [Professional Summariser](https://chat.openai.com/g/g-Bgp6qQQ3X-professional-summariser): I summarise texts quickly and efficiently
+- [Summary Sage with tags](https://chat.openai.com/g/g-UV2FOzD60-summary-sage-with-tags): Expert in summarizing and categorizing
+- [URL Shortner](https://chat.openai.com/g/g-FmVxPJH0E-url-shortner): Shortens long URLs to more manageable links.
+- [PresentationGPT](https://chat.openai.com/g/g-6fEHnJPXY-presentationgpt): AI bot specializing in creating presentation outlines
+- [Mindmap](https://chat.openai.com/g/g-pkeXTdBQQ-mindmap): Assists in creating structured mind maps for organizing thoughts and ideas.
+- [Conceptmap](https://chat.openai.com/g/g-ce1JVgzLI-conceptmap): Create concepts and structure them in a map. Keep ideas and retrieve them whenever you need them.
 
 
 ## Programming Assistance
@@ -531,9 +667,30 @@ Awesome GPTs is a collection of all GPTs created by the community.
 - [PC Builder GPT](https://chat.openai.com/g/g-gh7PDdmmd-pc-builder-gpt): I'm PC Builder GPT, your tech-savvy virtual friend who offers expert and approachable advice on building PCs, complete with up-to-date pricing by [@HeyitsRadinn](https://github.com/HeyitsRadinn)
 - [Codey](https://chat.openai.com/g/g-SuWVXlmkP-codey-coding-assistant): 🧙‍♂️💻 Codey - Your coding wizard! I handle code execution, file management 📂, and create charts/graphs 📈 with ease. From code reviews 🤓 to debugging 🔍, I've got you covered.
 - [Code GPT](https://chat.openai.com/g/g-qd7UDCT6K-code-gpt): Code GPT that is able to generate code, push that to GitHub, auto-fix it, etc. Also, it deploys it for you in real-time automatically.
-- [AstroJS Tips](https://chat.openai.com/g/g-DBNZGqVrU-astrojs-tips): Get tips, hints, or code reviews for your AstroJS site. Trained on Astro docs and code projects. Unofficial, created by [@psvann](github.com/psvann). 
+- [AstroJS Tips](https://chat.openai.com/g/g-DBNZGqVrU-astrojs-tips): Get tips, hints, or code reviews for your AstroJS site. Trained on Astro docs and code projects. Unofficial, created by [@psvann](github.com/psvann).
 - [Take Code Captures](https://chat.openai.com/g/g-yKDul3yPH-take-code-captures): I help you capture, enhance, and share your code with ease  by Oscar Daniel Ramos Ramirez
 - [WordPress Code Wizard](https://chat.openai.com/g/g-q201IJB7L-wordpress-code-wizard): A WordPress code snippet guru offering advanced development solutions by [S.J](https://github.com/noname2312)
+- [FramerGPT](https://chat.openai.com/g/g-MXpLvufG8-framergpt): Generate code components and overrides for Framer by [Isaac Roberts](https://twitter.com/heyisaacr)
+- [HTML Wizard](https://chat.openai.com/g/g-0e9bmrOxn-html-wizard): A wise guide in web wizardry by [Davis](https://community.openai.com/u/BPS_Software)
+- [SQL Ninja](https://chat.openai.com/g/g-FgZWbduwR-sql-ninja): Silent Queries, Lethal Data by [Davis](https://community.openai.com/u/BPS_Software)
+- [The Pythoneer](https://chat.openai.com/g/g-zoGt7gx1e-the-pythoneer): Code, Conquer, & Quest by [Davis](https://community.openai.com/u/BPS_Software)
+- [Code Assistant](https://chat.openai.com/g/g-tFHVXTKIX-code-assistant): Codes, debugs, refines, with minimal fluff by [Gautam](https://community.openai.com/u/codergautam)
+- [Code Support](https://chat.openai.com/g/g-H8YSZ3jLX-code-support): Quick command-line help and code snippets, defaults to Linux & Python.
+- [Aether](https://chat.openai.com/g/g-RO7ilCxmR-aether): Cited answers to Python / JS / AI questions
+- [AWS Cloud Practitioner Trainer GPT](https://chat.openai.com/g/g-hwCXFnpHc-aws-cloud-practitioner-certification-trainer): Use AI to train for your AWS certification exam.
+- [CodeCopilot](https://chat.openai.com/g/g-2DQzU5UZl): Pair programming assistant for various coding tasks.
+- [CodeGuardian](https://chat.openai.com/g/g-iNO6cUKoo-code-guardian): Code challenges for web developers to identify security vulnerabilities and patch them.
+- [Create Coding Tutorials](https://chat.openai.com/g/g-yCng8eadJ-create-coding-tutorials): Takes your code and develops a self-paced tutorial for your students.
+- [Developer Doc Search](https://chat.openai.com/g/g-AINygIiYy-developer-doc-search): Searches open source packages and their documentation.
+- [DevGPT](https://chat.openai.com/g/g-eN7HtAqXW-devgpt): Code togheter, right now..
+- [Flowbite GPT](https://chat.openai.com/g/g-y7yC35HB9-flowbite-gpt): Create websites based on the Flowbite UI Library and Tailwind CSS.
+- [Flutter App Maker 3000](https://chat.openai.com/g/g-sizZKl9zO-flutter-app-maker-3000): A hands-on guide for building Flutter apps step by step.
+- [Full Stack Developer](https://chat.openai.com/g/g-N82dqklAi-full-stack-developer): I generate code for and fix issues in B2B SaaS web apps.
+- [Game Craft Guru](https://chat.openai.com/g/g-XLVAtZJKi-game-craft-guru): Focused game mechanics and design expert.
+- [Secure Code Assistant](https://chat.openai.com/g/g-k0PTOme1H-secure-code-assistant): I offer tested, secure coding solutions with no patience-testing.
+- [Shell Expert Pro](https://chat.openai.com/g/g-jaiZcNIme-shell-expert-pro): Efficient shell script engineer, offers detailed explanations on request.
+- [Test Double](https://chat.openai.com/g/g-yK9Ggt181-test-double): Expert in creating diverse test data for development needs in various formats.
+- [AI Websites](https://chat.openai.com/g/g-WTUuSzTOj-ai-websites): Creates professional websites quickly.
 
 
 ## Storytelling & Screenplays
@@ -549,10 +706,9 @@ Awesome GPTs is a collection of all GPTs created by the community.
 - [Story Buddy](https://chat.openai.com/g/g-2k7EGyB1p-story-buddy): A creative guide to help kids build their own bedtime stories, with illustrations by [@ItaiLeibowitz](https://github.com/ItaiLeibowitz)
 - [Alternative Histories](https://chat.openai.com/g/g-J45g1U3ro-alternative-histories): I craft and visualize 'what if' histories.
 - [Film Developer](https://chat.openai.com/g/g-r7X90KNno-film-developer): A GPT for everything in film development, from dialogue to story, character development, to concept art by [@LaneBucher](https://github.com/LaneBucher)
-
-
-## Storytelling & Screenplays
-- [OpenStorytelling Plus](https://chat.openai.com/g/g-LppT0lwkB-openstorytelling-plus): An Educational Open Source Storytelling Writing Guide w/ Screenplay Examples by [Bryan Harris](https://x.com/BryanRebooted/)
+- [Character Architect](https://chat.openai.com/g/g-Impe1Ay0j-character-architect): Crafting Characters, Cultivating Connections by [Davis](https://community.openai.com/u/BPS_Software)
+- [LitRPG Larry](https://chat.openai.com/g/g-rOaM5ZKPa-litrpg-larry): I'm LitRPG Larry, here to discuss and help with all things LitRPG whether you're a writer or reader. (GameLit Friendly!) by [Paul Bellow](https://community.openai.com/u/PaulBellow)
+- [Storyteller](https://chat.openai.com/g/g-dmgFloZ5w-storyteller): Weaves stories with a blend of writing and design.
 
 
 ## Translator
@@ -565,6 +721,10 @@ Awesome GPTs is a collection of all GPTs created by the community.
 - [Simple Proofreader](https://chat.openai.com/g/g-Dk6K4VJk2-simple-proofreader): I will proofread academic English. I won’t do anything other than that by [Matsui Kentaro](https://x.com/matsuikentaro1/)
 - [English proofreading GPT](https://chat.openai.com/g/g-xk6AdDGIW-ying-wen-xiao-zheng-gpt): Academic paper English proofreading assistant by [genkAIjokyo](https://x.com/genkAIjokyo/)
 - [PEC - Practice English Conversation](https://chat.openai.com/g/g-kowOn5g3r-pec-practice-english-conversation): Let's practice English conversation. Provides detailed analysis of sentence structure, grammar, vocabulary usage, and more by [S.J](https://github.com/noname2312)
+- [Chinese Pronunciation [Audio]](https://chat.openai.com/g/g-Dr5b43UUk-audio-chinese-pronunciation-tutor): Chinese Pronunciation Tutor for use with ChatGPT mobile app's conversational AI
+- [Language Coach](https://chat.openai.com/g/g-0g6ZdEtv6-language-coach): Helps in learning new languages.
+- [Spanish Friend](https://chat.openai.com/g/g-p5dJAcoT8-spanish-friend-language-conversation-improver): Talk with me through some real-life scenarios and I will help you improve your foreign language skills through practice, translations and improvements.
+- [Time Series Forecasting Expert - 时间序列预测专家)](https://chat.openai.com/g/g-n6tIz5rIq-shi-jian-xu-lie-yu-ce-zhuan-jia): Time series prediction expert in Chinese
 
 
 ## Travel
@@ -573,9 +733,7 @@ Awesome GPTs is a collection of all GPTs created by the community.
 - [Airwise](https://chat.openai.com/g/g-YxfbZUa7H-airwise): A traveler-focused AI tool that quickly clarifies airport regulations on carry-on and checked items, aligned with current global policies by [Ankit Pal](https://www.linkedin.com/in/aadityaura/)
 - [NomadGPT](https://chat.openai.com/g/g-0k9rvxdJn-nomadgpt): NomadGPT helps you become a digital nomad and find you the best places in the world to live and work remotely by [levelsio](https://twitter.com/levelsio/)
 - [Seat Seeker GPT](https://chat.openai.com/g/g-3AQM5NfzA-seat-seeker): Seat Seeker excels in efficiently assisting users to find public seating with specific amenities, using their approximate location by [@HeyitsRadinn](https://github.com/HeyitsRadinn)
-
-## Travel
-- [Travel Greener](https://chat.openai.com/g/g-LhBDxLB7d-travel-greener): An AI that helps you make your trip more sustainable by finding more sustainable traveling alternatives and providing advice, by [Axel Peytavin](https://www.linkedin.com/in/axel-peytavin/)
+- [Weather Whiskers](https://chat.openai.com/g/g-Qb4WOntiy-weatherwhiskers): I generate a cute weather forecast image in your location, just tell me where you are.
 
 
 ## Miscellaneous
@@ -596,9 +754,6 @@ Awesome GPTs is a collection of all GPTs created by the community.
 - [An Emoji GPT](https://chat.openai.com/g/g-mvOpDRXMz-an-emoji-gpt): The knowledge of a hundred generations at my fingertips and all I do is pick the perfect emoji for every situation by James Donovan
 - [Emoji Generator](https://chat.openai.com/g/g-wkmOq6AxG-emoji-generator): I turn your text into Emoji by airprompto
 - [Waste Wizard](https://chat.openai.com/g/g-o8lkkwc8Z-waste-wizard): I turn your waste into wonders with ideas, steps, pictures by airprompto
-- [Roast This GPT](https://chat.openai.com/g/g-xEgcQmIWu-roast-this-gpt): A GPT To Roast Other GPTs by [Benjamin De Kraker](https://x.com/BenjaminDEKR)
-- [Impress Me GPT](https://chat.openai.com/g/g-zjMvl4pFx-impress-me-gpt): Showing off the abilities of ChatGPT until you’re impressed! by [MindBranches](https://x.com/MindBranches)
-- [Architect](https://chat.openai.com/g/g-wM67s4782-architect): I assist in conlang creation and manage complex data by [John Stark](https://x.com/StarkMakesArt)
 - [Architect](https://chat.openai.com/g/g-wM67s4782-architect): I assist in conlang creation and manage complex data by [John Stark](https://x.com/StarkMakesArt)
 - [Istio Guru](https://chat.openai.com/g/g-r4v8Uva89-istio-guru): Your Istio Service Mesh Expert by [Rohit Ghumare](https://www.linkedin.com/in/rohit-ghumare/)
 
