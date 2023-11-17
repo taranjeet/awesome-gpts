@@ -296,7 +296,7 @@ Awesome GPTs is a collection of all GPTs created by the community.
 - [The Negotiator](https://chat.openai.com/g/g-TTTAK9GuS-the-negotiator): I'll help you advocate for yourself and get better outcomes. Become a great negotiator
 - [Debate Mentor](https://chat.openai.com/g/g-KIX0IC8cj-debate-mentor): Mentor and debater, guides users to articulate conclusions by [@kylecoogan](https://github.com/kylecoogan)
 - [Counterpoint](https://chat.openai.com/g/g-Xgf5oBbeg-counterpoint): I challenge ideas to provoke thought.
-
+- [ComebackGPT] (https://chat.openai.com/g/g-eluaZeSJd-comebackgpt): Someone taunted you? Tell me what they said and I'll provide comebacks that'll knock the teeth out of their mouth! By [Shiva Kakkar][www.shivakakkar.link)
 
 ## Design 
 - [Designer GPT](https://chat.openai.com/g/g-2Eo3NxuS7-designergpt): Creates and hosts beautiful websites by [Pietro Schirano](https://x.com/skirano/)
