@@ -613,6 +613,7 @@ Awesome GPTs is a collection of all GPTs created by the community.
 - [Wing Chun Mastery](https://chat.openai.com/g/g-FWBVFTNQ0-wing-chun-mastery): Scholarly techniques, training, and philosophy by [Davis](https://community.openai.com/u/BPS_Software)
 - [JungGPT](https://chat.openai.com/g/g-Izd6ToWMh-junggpt): Your compact AI companion for emotional insights! This revolutionary tool is fueled by a vast repository of information spanning psychology, therapy, and philosophy by [Tim](https://community.openai.com/u/tventura94)
 - [Ethical AI](https://chat.openai.com/g/g-4TqgssqTw-ethical-ai): a daily challenge
+- [VedantaGPT](https://chat.openai.com/g/g-8yOCnl2xV-vedantagpt):I teach Sankara's Advaita Vedanta with authentic commentaries from Guru's like Swami Chinmayananda and Swami Dayananda Saraswati. By Shiva Kakkar (www.shivakakkar.link)
 
 
 ## Productivity
