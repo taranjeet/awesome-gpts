@@ -414,8 +414,7 @@ Awesome GPTs is a collection of all GPTs created by the community.
 - [Experiential Learning Theory to Practice](https://chat.openai.com/g/g-BgpVm7CTW-experiential-learning-theory-to-practice): Enhances pedagogical understanding with added journal articles by [Paul McAfee](https://www.linkedin.com/in/paulmcafee)
 - [Dense Summarizer] (https://chat.openai.com/g/g-AAmVBcVfk-dense-summarizer):Create paper/report summaries so dense (yet compact) that you can get away without reading the original paper. By Shiva Kakkar (www.shivakakkar.link)
 - [MedGPT] (https://chat.openai.com/g/g-duAbrIQRJ-medgpt-a-case-study-on-self-determination-theory): A simulation to teach 'Self-determination theory' to management students based on a well-researched health care scenario. By Shiva Kakkar (www.shivakakkar.link)
-
-
+- [McNamaraGPT] (https://chat.openai.com/g/g-2qfy9dWOg-mcnamaragpt-a-turn-based-strategy-game): A game to teach McNamara Fallacy to students. Used as part of Management school curriculums. By Shiva Kakkar (www.shivakakkar.link)
 ## Energy & Climate
 - [Solar Consultant](https://chat.openai.com/g/g-zOWLnMfIU-solar-consultant): Helps you with your Solar power, plant requirements, and offers clear, concise solar panel advice by [Sunwize Energy Systems Pvt. Ltd.](https://www.linkedin.com/company/sunwize/)
 - [Home Energy Advisor](https://chat.openai.com/g/g-z0bsfNa9W-home-energy-advisor): Energy Efficiency Advisor by [Brian Flanagan](https://www.linkedin.com/in/brian-flanagan-2508926/)
