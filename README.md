@@ -297,7 +297,7 @@ Awesome GPTs is a collection of all GPTs created by the community.
 - [The Negotiator](https://chat.openai.com/g/g-TTTAK9GuS-the-negotiator): I'll help you advocate for yourself and get better outcomes. Become a great negotiator
 - [Debate Mentor](https://chat.openai.com/g/g-KIX0IC8cj-debate-mentor): Mentor and debater, guides users to articulate conclusions by [@kylecoogan](https://github.com/kylecoogan)
 - [Counterpoint](https://chat.openai.com/g/g-Xgf5oBbeg-counterpoint): I challenge ideas to provoke thought.
-
+- [ComebackGPT] (https://chat.openai.com/g/g-eluaZeSJd-comebackgpt): Someone taunted you? Tell me what they said and I'll provide comebacks that'll knock the teeth out of their mouth! By [Shiva Kakkar][www.shivakakkar.link)
 
 ## Design 
 - [Designer GPT](https://chat.openai.com/g/g-2Eo3NxuS7-designergpt): Creates and hosts beautiful websites by [Pietro Schirano](https://x.com/skirano/)
@@ -413,8 +413,9 @@ Awesome GPTs is a collection of all GPTs created by the community.
 - [Nature's Guide](https://chat.openai.com/g/g-vaRyhOuIA-nature-s-guide): Identifies plants & fungi from images and shares facts and folklore.
 - [LaboraBot](https://chat.openai.com/g/g-fYpUUlZBV-laborabot): I am going to help you carry out your practice with homemade materials by [Ernesto Boixader Gil](https://twitter.com/eboixader)
 - [Experiential Learning Theory to Practice](https://chat.openai.com/g/g-BgpVm7CTW-experiential-learning-theory-to-practice): Enhances pedagogical understanding with added journal articles by [Paul McAfee](https://www.linkedin.com/in/paulmcafee)
-
-
+- [Dense Summarizer] (https://chat.openai.com/g/g-AAmVBcVfk-dense-summarizer):Create paper/report summaries so dense (yet compact) that you can get away without reading the original paper. By Shiva Kakkar (www.shivakakkar.link)
+- [MedGPT] (https://chat.openai.com/g/g-duAbrIQRJ-medgpt-a-case-study-on-self-determination-theory): A simulation to teach 'Self-determination theory' to management students based on a well-researched health care scenario. By Shiva Kakkar (www.shivakakkar.link)
+- [McNamaraGPT] (https://chat.openai.com/g/g-2qfy9dWOg-mcnamaragpt-a-turn-based-strategy-game): A game to teach McNamara Fallacy to students. Used as part of Management school curriculums. By Shiva Kakkar (www.shivakakkar.link)
 ## Energy & Climate
 - [Solar Consultant](https://chat.openai.com/g/g-zOWLnMfIU-solar-consultant): Helps you with your Solar power, plant requirements, and offers clear, concise solar panel advice by [Sunwize Energy Systems Pvt. Ltd.](https://www.linkedin.com/company/sunwize/)
 - [Home Energy Advisor](https://chat.openai.com/g/g-z0bsfNa9W-home-energy-advisor): Energy Efficiency Advisor by [Brian Flanagan](https://www.linkedin.com/in/brian-flanagan-2508926/)
@@ -613,6 +614,7 @@ Awesome GPTs is a collection of all GPTs created by the community.
 - [Wing Chun Mastery](https://chat.openai.com/g/g-FWBVFTNQ0-wing-chun-mastery): Scholarly techniques, training, and philosophy by [Davis](https://community.openai.com/u/BPS_Software)
 - [JungGPT](https://chat.openai.com/g/g-Izd6ToWMh-junggpt): Your compact AI companion for emotional insights! This revolutionary tool is fueled by a vast repository of information spanning psychology, therapy, and philosophy by [Tim](https://community.openai.com/u/tventura94)
 - [Ethical AI](https://chat.openai.com/g/g-4TqgssqTw-ethical-ai): a daily challenge
+- [VedantaGPT](https://chat.openai.com/g/g-8yOCnl2xV-vedantagpt):I teach Sankara's Advaita Vedanta with authentic commentaries from Guru's like Swami Chinmayananda and Swami Dayananda Saraswati. By Shiva Kakkar (www.shivakakkar.link)
 
 
 ## Productivity
