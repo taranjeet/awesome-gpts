@@ -646,6 +646,7 @@ Awesome GPTs is a collection of all GPTs created by the community.
 - [Paper Interpreter](https://chat.openai.com/g/g-R9Dry2N5h-paper-interpreter): Explain the PDF of the academic paper in an easy-to-understand manner by [Daichi Konno](https://twitter.com/_daichikonno)
 - [Townsend Atomics Enhanced AI](https://chat.openai.com/g/g-XFeB5TGQy-townsend-atomics-enhanced-ai): Versatile AI for Life Improvement and Safety by [Jordan Kurt Townsend](https://www.linkedin.com/in/townsendatomics/)
 - [Cauldron](https://chat.openai.com/g/g-TnyOV07bC-cauldron): Media Mixer & Editor. Upload 1 to remake in a similar style. Upload 2 or more to remix, blend, edit or transfer styles. K for cmd menu by [Nicholas Dobos](https://x.com/NickADobos/)
+- [Technical RFP Expert](https://chat.openai.com/g/g-APDSraFhe-technical-rfp-expert): Offers analysis and guidance on technology-focused RFPs, RFIs, and RFQs, focusing on technical aspects, risks, and regulations in a clear, factual manner by [Mateus Dias](https://github.com/mtdias). More details [here](https://github.com/mtdias/technical-rfp-expert-gpt-bot).
 
 
 ## Programming Assistance
