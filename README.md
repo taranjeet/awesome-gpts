@@ -57,6 +57,7 @@ Awesome GPTs is a collection of all GPTs created by the community.
 - [PromptPlz](https://chat.openai.com/g/g-LicZucHuu-promptplz): Your personal prompt engineer is here. Just say PromptPlz by [S.J](https://github.com/noname2312)
 - [Puron chan the Prompt Engineer](https://chat.openai.com/g/g-eYyc3l6iB-puron-chan-the-prompt-engineer): Puron chan, a professional prompt engineer, is here to help you craft effective prompts desu! by [S.J](https://github.com/noname2312)
 - [GPT Architect](https://chat.openai.com/g/g-476KmATpZ-gpt-architect): This GPT helps you build new GPTs by [David Ondrej](https://twitter.com/DavidOndrej1)
+- [GPT Agent Searcher](https://chat.openai.com/g/g-E5HOxDjBS-gpt-agent-searcher): There's a GPT for that by [Guillaume Dumortier](https://www.linkedin.com/in/gdumortier)
 
 
 ## Automobile
@@ -107,6 +108,7 @@ Awesome GPTs is a collection of all GPTs created by the community.
 - [Product Coach](https://chat.openai.com/g/g-e0xH6MMQs-product-coach): Provides insights for product development.
 - [Post Cheetah SEO](https://chat.openai.com/g/g-C63rpm9U0-post-cheetah-seo): Do an instant SEO analysis of any website by [Mark J Gadala Maria](https://twitter.com/markgadala)
 - [Pitch GPT](https://chat.openai.com/g/g-qcH5H9Aza-pitch-gpt): Pitch GPT helps craft customized business pitches, integrating web research, visual creation, and coding insights for diverse business needs. by [David Robertson](https://www.linkedin.com/in/daverobertson4)
+- [Prototyper](https://chat.openai.com/g/g-UiLPuZ5ZZ-prototyper): I casually craft and host web prototypes, explaining code on request by [Florian S](https://twitter.com/airesearch12)
 
 
 ## Career Advice & Coaching
@@ -130,6 +132,7 @@ Awesome GPTs is a collection of all GPTs created by the community.
 - [Tech Guru GPT](https://chat.openai.com/g/g-EGHIlyWQB-tech-guru-gpt): Mock interviews with real-time feedback. by [Eidher Escalona](https://community.openai.com/u/eidher)
 - [Career Counselor](https://chat.openai.com/g/g-yD0ZMqZLT-career-counselor): Empathetic career counselor offering guidance and market insights
 - [Job Assistant GPT](https://chat.openai.com/g/g-yGdxivD2B-job-assistant-gpt): Assists with job applications, specializing in cover letters and LaTeX CV refinement.
+- [Decision Coach](https://chat.openai.com/g/g-OoyU2wEBO-decision-coach): I am your guide to better decisions by [Treasurex Melchior](https://www.linkedin.com/in/treasurex-melchior-9586479/)
 
 
 ## Content Creation & Writing
@@ -178,6 +181,7 @@ Awesome GPTs is a collection of all GPTs created by the community.
 - [Trey Ratcliff's Fun & Critical Photo Critique GPT](https://chat.openai.com/g/g-gWki9zYNV): Over 5,000 of my blog posts and all my books have been fed into this AI to give you a fun critique of your photo. Enjoy! And tell your friends - thanks! by Raymond Ratcliff
 - [Xiaohongshu Writing Expert](https://chat.openai.com/g/g-iWeTcmxdr-xiao-hong-shu-xie-zuo-zhuan-jia): Focus on Xiaohongshu note writing, with it you can also be an expert in Xiaohongshu’s popular writing! 
 - [Post Generator](https://chat.openai.com/g/g-XO5wmv9uA-post-generator): Writes your LinkedIn Posts by [Johan van der Boog](https://www.linkedin.com/in/johanvanderboog)
+- [Sabber Style](https://chat.openai.com/g/g-YHTDi9QR6-sabber-style): Crafting tweets in Sabber's style, exclusively in Persian by [Sabber](https://twitter.com/sabber_dev)
 
 
 ## Culinary
@@ -288,6 +292,7 @@ Awesome GPTs is a collection of all GPTs created by the community.
 - [10x Spec Engineer](https://chat.openai.com/g/g-8txSyxoJE-10x-spec-engineer): I write tests that make bugs think twice by [Mathias Michel](https://github.com/m91michel)
 - [Quick CVE](https://chat.openai.com/g/g-wYlD68R4t-quick-cve): CVE data lookup
 - [Cyber Security CISO Assistant](https://chat.openai.com/g/g-AInhlHTZG-cyber-security-ciso-assistant): Cybersecurity Analyst specialized in the NIST Framework by [Daniel Garza](https://www.linkedin.com/in/garza)
+- [Red Team Guide](https://chat.openai.com/g/g-eQlfHmSH5-red-team-guide): Red Team Recipe and Guide for Fun & Profit by [Hadess](https://twitter.com/Hadess_security)
 
 
 ## Debate
@@ -297,7 +302,7 @@ Awesome GPTs is a collection of all GPTs created by the community.
 - [The Negotiator](https://chat.openai.com/g/g-TTTAK9GuS-the-negotiator): I'll help you advocate for yourself and get better outcomes. Become a great negotiator
 - [Debate Mentor](https://chat.openai.com/g/g-KIX0IC8cj-debate-mentor): Mentor and debater, guides users to articulate conclusions by [@kylecoogan](https://github.com/kylecoogan)
 - [Counterpoint](https://chat.openai.com/g/g-Xgf5oBbeg-counterpoint): I challenge ideas to provoke thought.
-- [ComebackGPT] (https://chat.openai.com/g/g-eluaZeSJd-comebackgpt): Someone taunted you? Tell me what they said and I'll provide comebacks that'll knock the teeth out of their mouth! By [Shiva Kakkar][www.shivakakkar.link)
+- [ComebackGPT](https://chat.openai.com/g/g-eluaZeSJd-comebackgpt): Someone taunted you? Tell me what they said and I'll provide comebacks that'll knock the teeth out of their mouth! by [Shiva Kakkar](www.shivakakkar.link)
 
 
 ## Design 
@@ -356,6 +361,7 @@ Awesome GPTs is a collection of all GPTs created by the community.
 - [Brand Logo Designer by DoMore.ai](https://chat.openai.com/g/g-eSTMWEuBk-brand-logo-designer-by-domore-ai): Use this custom GPT to create a horizontal logo with an icon symbolizing your business and your brand name alongside, set on a transparent background by [@TS5002](https://github.com/TS5002)
 - [Logo Design Wizard](https://chat.openai.com/g/g-OfG13AhZC-logo-design-wizard): Expert in custom logo design and brand identity. For Shopify stores, blogs, startups, applications, etc. by [S.J](https://github.com/noname2312)
 - [Photo Multiverse](https://chat.openai.com/g/g-ZctQCI6MG-photo-multiverse): Upload your selfie, headshot photo or object and teleport to a new destination background	by [SableVista](https://github.com/SableVista)
+- [img2img](https://chat.openai.com/g/g-SIE5101qP-img2img): Upload an image, and it will be re-created with Dalle 3: works with photos, logos, textures, illustrations, and a more — very detail-orientated GPT.
 
 
 ## Education
@@ -416,9 +422,11 @@ Awesome GPTs is a collection of all GPTs created by the community.
 - [Nature's Guide](https://chat.openai.com/g/g-vaRyhOuIA-nature-s-guide): Identifies plants & fungi from images and shares facts and folklore.
 - [LaboraBot](https://chat.openai.com/g/g-fYpUUlZBV-laborabot): I am going to help you carry out your practice with homemade materials by [Ernesto Boixader Gil](https://twitter.com/eboixader)
 - [Experiential Learning Theory to Practice](https://chat.openai.com/g/g-BgpVm7CTW-experiential-learning-theory-to-practice): Enhances pedagogical understanding with added journal articles by [Paul McAfee](https://www.linkedin.com/in/paulmcafee)
-- [Dense Summarizer] (https://chat.openai.com/g/g-AAmVBcVfk-dense-summarizer):Create paper/report summaries so dense (yet compact) that you can get away without reading the original paper. By Shiva Kakkar (www.shivakakkar.link)
-- [MedGPT] (https://chat.openai.com/g/g-duAbrIQRJ-medgpt-a-case-study-on-self-determination-theory): A simulation to teach 'Self-determination theory' to management students based on a well-researched health care scenario. By Shiva Kakkar (www.shivakakkar.link)
-- [McNamaraGPT] (https://chat.openai.com/g/g-2qfy9dWOg-mcnamaragpt-a-turn-based-strategy-game): A game to teach McNamara Fallacy to students. Used as part of Management school curriculums. By Shiva Kakkar (www.shivakakkar.link)
+- [Dense Summarizer](https://chat.openai.com/g/g-AAmVBcVfk-dense-summarizer):Create paper/report summaries so dense (yet compact) that you can get away without reading the original paper by [Shiva Kakkar](www.shivakakkar.link)
+- [MedGPT](https://chat.openai.com/g/g-duAbrIQRJ-medgpt-a-case-study-on-self-determination-theory): A simulation to teach 'Self-determination theory' to management students based on a well-researched health care scenario by [Shiva Kakkar](www.shivakakkar.link)
+- [McNamaraGPT](https://chat.openai.com/g/g-2qfy9dWOg-mcnamaragpt-a-turn-based-strategy-game): A game to teach McNamara Fallacy to students. Used as part of Management school curriculums by [Shiva Kakkar](www.shivakakkar.link)
+- [IELTS Tutor](https://chat.openai.com/g/g-1ugiDajWP-ielts-tutor): I'm IELTS Tutor, your friendly guide to IELTS success! by [Çağrı Menteş](https://twitter.com/cagrihoca)
+- [SyntheticallyEnhanced Explainer](https://chat.openai.com/g/g-iCGh2R2QA-syntheticallyenhanced-explainer): Explains 'SyntheticallyEnhanced' paper by [Bardia Khosravi](https://twitter.com/khosravi_bardia)
 
 
 ## Energy & Climate
@@ -517,6 +525,10 @@ Awesome GPTs is a collection of all GPTs created by the community.
 - [MundlGPT](https://chat.openai.com/g/g-pIKzWkElB-mundlgpt): A real Viennese doesn't go down by [Nikolaus Kern](https://twitter.com/KernNiko)
 - [F1 Translation Meister](https://chat.openai.com/g/g-UfKr5xVKC-f1fan-yi-maisuta): F1翻訳マイスター by Takumi Fukaya
 - [Guess a Word](https://chat.openai.com/g/g-QiPBZt4Zo-guess-a-word): Discover words through images in 'Guess a Word', where each picture is a puzzle waiting to be solved!
+- [The Future of Sam: A text adventure](https://chat.openai.com/g/g-FiuvijrZr-the-future-of-sam-a-text-adventure): In this brutally realistic game, you'll step into the shoes of Sam Altam, a former CEO of OpenAI who was fired from OpenAi by the board members under mysterious circumstances by [Andrey Azimov](https://twitter.com/AndreyAzimov)
+- [San Andreas GPT](https://chat.openai.com/g/g-dmr3iNu0M-san-andreas-gpt): This text-based game takes you to the unforgiving streets of San Andreas, where crime and chaos reign supreme by [Andrey Azimov](https://twitter.com/AndreyAzimov)
+- [The Secret of Monkey Island: Amsterdam](https://chat.openai.com/g/g-bZoD0qWT8-the-secret-of-monkey-island-amsterdam): An unofficial text-based adventure game inspired by Monkey Island taking place in a fictional version of 🇳🇱 Amsterdam during the age of piracy by [@levelsio](https://twitter.com/levelsio)
+- [Pieter Levels: Startup Adventures](https://chat.openai.com/g/g-9ycs8hqWe-pieter-levels-startup-adventures): A text-based adventure game taking place in a fictional version of 🇳🇱 Netherlands, 🇹🇭 Thailand, 🏝️ Bali and other places by [@levelsio](https://twitter.com/levelsio)
 
 
 ## Fashion
@@ -560,6 +572,7 @@ Awesome GPTs is a collection of all GPTs created by the community.
 - [Physique Coach](https://chat.openai.com/g/g-nAVBYsZ93-physique-coach): Analyzing progress, setting goals, and giving feedback on your training plans.
 - [Pill Pal](https://chat.openai.com/g/g-oHDhbozdt-pill-pal): Organizes and tracks medication schedules.
 - [VetGPT](https://chat.openai.com/g/g-zrHdCQJS6-vetgpt): Your Vet A.I. that can analyze pet health by photos by [Benny Gomez](https://www.linkedin.com/in/benny-gomez-jr-55837574/)
+- [FAT2FIT GPT](https://chat.openai.com/g/g-YSwW03u03-fat2fit-gpt): Encouraging fitness advisor for tailored workouts - [Andrey Azimov](https://twitter.com/AndreyAzimov)
 
 
 ## Law & Taxes
@@ -575,6 +588,9 @@ Awesome GPTs is a collection of all GPTs created by the community.
 - [Immunization Insights](https://chat.openai.com/g/g-6o3Woxcw3-immunization-insights-beta): Immunization support and advocacy guide
 - [MyGovAdvisor](https://chat.openai.com/g/g-tM60J2Qc2-mygovadvisor): I'm a multilingual Government Agent I'm here to assist you with any public service request
 - [Your Legal Rights Against the AirBB STR Platform](https://chat.openai.com/g/g-BmSByAr5l-your-legal-rights-against-the-airbb-str-platform): Helping Users Assert Their Legal Rights Against Airbnb.
+- [Justice A.I.](https://chat.openai.com/g/g-edlHxa0i1-justice-a-i): A Multifaceted A.I. dedicated to deconstructing biases across society, fostering equity and humanity in every sector by [Christian Ortiz](https://www.linkedin.com/in/modatlasmedia/)
+- [LeiSequinha](https://chat.openai.com/g/g-0kXu7QuRD-leisequinha): Automatically extract the JUICE from the Law by [Joao Alberto o Lima](https://twitter.com/joaoli13)
+- [kIRBy](https://chat.openai.com/g/g-eDGmfjZb3-kirby): IRB guidance, one question at a time by [Tejas Sathe](https://twitter.com/tssathe)
 
 
 ## News
@@ -769,6 +785,7 @@ Awesome GPTs is a collection of all GPTs created by the community.
 - [Language Coach](https://chat.openai.com/g/g-0g6ZdEtv6-language-coach): Helps in learning new languages.
 - [Spanish Friend](https://chat.openai.com/g/g-p5dJAcoT8-spanish-friend-language-conversation-improver): Talk with me through some real-life scenarios and I will help you improve your foreign language skills through practice, translations and improvements.
 - [Time Series Forecasting Expert - 时间序列预测专家)](https://chat.openai.com/g/g-n6tIz5rIq-shi-jian-xu-lie-yu-ce-zhuan-jia): Time series prediction expert in Chinese
+- [Nuanced Ukrainian Translator](https://chat.openai.com/g/g-Tbdi7fnCe-nuanced-ukrainian-translator): Expert in nuanced, idiomatic Ukrainian translations by [Yevhenii Hurin](https://twitter.com/hoblon)
 
 
 ## Travel
@@ -804,4 +821,5 @@ Awesome GPTs is a collection of all GPTs created by the community.
 - [Kitze GPT](https://chat.openai.com/g/g-KQJtxRnAz-kitze-gpt): Talk to Kitze by [Kitze](https://twitter.com/thekitze)
 - [@levelsio](https://chat.openai.com/g/g-QFAuxHmUa-levelsio): Talk with @levelsio on ChatGPT. Ask any question you want about building your own startup, digital nomading, remote work and whatever else you'd like to ask. Trained on all of my podcasts, interviews, blog posts and tweets! by [levelsio](https://twitter.com/levelsio)
 - [3rd SoftSec Reviewer](https://chat.openai.com/g/g-nAldYnak2-3rd-softsec-reviewer):Perform 3rd party software security review by [yevh](https://github.com/yevh)
+- [TrenBot](https://chat.openai.com/g/g-hlLbNjzRZ-trenbot): Chatbot for Tren Griffin's views on the market, tech, and everything else by [Tren Griffin](https://twitter.com/trengriffin)
 
