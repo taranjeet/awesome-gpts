@@ -795,4 +795,5 @@ Awesome GPTs is a collection of all GPTs created by the community.
 - [VinuChain and VINU GPT](https://chat.openai.com/g/g-iw0xh6QBu-vinuchain-and-vinu-gpt): I am VinuChain and VINU GPT, specialized in the VINU ecosystem, including VinuFinance, VinuSwap, VINU token, and VinuChain. I offer insights on their features, tokenomics, and development. by [Taylor Miller](https://twitter.com/VitaInuCoin)
 - [Kitze GPT](https://chat.openai.com/g/g-KQJtxRnAz-kitze-gpt): Talk to Kitze by [Kitze](https://twitter.com/thekitze)
 - [@levelsio](https://chat.openai.com/g/g-QFAuxHmUa-levelsio): Talk with @levelsio on ChatGPT. Ask any question you want about building your own startup, digital nomading, remote work and whatever else you'd like to ask. Trained on all of my podcasts, interviews, blog posts and tweets! by [levelsio](https://twitter.com/levelsio)
+- [3rd SoftSec Reviewer](https://chat.openai.com/g/g-nAldYnak2-3rd-softsec-reviewer):Perform 3rd party software security review by [yevh](https://github.com/yevh)
 
