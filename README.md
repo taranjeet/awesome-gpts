@@ -297,7 +297,7 @@ Awesome GPTs is a collection of all GPTs created by the community.
 - [The Negotiator](https://chat.openai.com/g/g-TTTAK9GuS-the-negotiator): I'll help you advocate for yourself and get better outcomes. Become a great negotiator
 - [Debate Mentor](https://chat.openai.com/g/g-KIX0IC8cj-debate-mentor): Mentor and debater, guides users to articulate conclusions by [@kylecoogan](https://github.com/kylecoogan)
 - [Counterpoint](https://chat.openai.com/g/g-Xgf5oBbeg-counterpoint): I challenge ideas to provoke thought.
-- [ComebackGPT](https://chat.openai.com/g/g-eluaZeSJd-comebackgpt): Someone taunted you? Tell me what they said and I'll provide comebacks that'll knock the teeth out of their mouth! by [Shiva Kakkar](www.shivakakkar.link)
+- [ComebackGPT] (https://chat.openai.com/g/g-eluaZeSJd-comebackgpt): Someone taunted you? Tell me what they said and I'll provide comebacks that'll knock the teeth out of their mouth! By [Shiva Kakkar][www.shivakakkar.link)
 
 
 ## Design 
@@ -416,9 +416,9 @@ Awesome GPTs is a collection of all GPTs created by the community.
 - [Nature's Guide](https://chat.openai.com/g/g-vaRyhOuIA-nature-s-guide): Identifies plants & fungi from images and shares facts and folklore.
 - [LaboraBot](https://chat.openai.com/g/g-fYpUUlZBV-laborabot): I am going to help you carry out your practice with homemade materials by [Ernesto Boixader Gil](https://twitter.com/eboixader)
 - [Experiential Learning Theory to Practice](https://chat.openai.com/g/g-BgpVm7CTW-experiential-learning-theory-to-practice): Enhances pedagogical understanding with added journal articles by [Paul McAfee](https://www.linkedin.com/in/paulmcafee)
-- [Dense Summarizer](https://chat.openai.com/g/g-AAmVBcVfk-dense-summarizer):Create paper/report summaries so dense (yet compact) that you can get away without reading the original paper by [Shiva Kakkar](www.shivakakkar.link)
-- [MedGPT](https://chat.openai.com/g/g-duAbrIQRJ-medgpt-a-case-study-on-self-determination-theory): A simulation to teach 'Self-determination theory' to management students based on a well-researched health care scenario by [Shiva Kakkar](www.shivakakkar.link)
-- [McNamaraGPT](https://chat.openai.com/g/g-2qfy9dWOg-mcnamaragpt-a-turn-based-strategy-game): A game to teach McNamara Fallacy to students. Used as part of Management school curriculums by [Shiva Kakkar](www.shivakakkar.link)
+- [Dense Summarizer] (https://chat.openai.com/g/g-AAmVBcVfk-dense-summarizer):Create paper/report summaries so dense (yet compact) that you can get away without reading the original paper. By Shiva Kakkar (www.shivakakkar.link)
+- [MedGPT] (https://chat.openai.com/g/g-duAbrIQRJ-medgpt-a-case-study-on-self-determination-theory): A simulation to teach 'Self-determination theory' to management students based on a well-researched health care scenario. By Shiva Kakkar (www.shivakakkar.link)
+- [McNamaraGPT] (https://chat.openai.com/g/g-2qfy9dWOg-mcnamaragpt-a-turn-based-strategy-game): A game to teach McNamara Fallacy to students. Used as part of Management school curriculums. By Shiva Kakkar (www.shivakakkar.link)
 
 
 ## Energy & Climate
