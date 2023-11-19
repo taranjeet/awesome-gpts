@@ -299,6 +299,7 @@ Awesome GPTs is a collection of all GPTs created by the community.
 - [Counterpoint](https://chat.openai.com/g/g-Xgf5oBbeg-counterpoint): I challenge ideas to provoke thought.
 - [ComebackGPT] (https://chat.openai.com/g/g-eluaZeSJd-comebackgpt): Someone taunted you? Tell me what they said and I'll provide comebacks that'll knock the teeth out of their mouth! By [Shiva Kakkar][www.shivakakkar.link)
 
+
 ## Design 
 - [Designer GPT](https://chat.openai.com/g/g-2Eo3NxuS7-designergpt): Creates and hosts beautiful websites by [Pietro Schirano](https://x.com/skirano/)
 - [Super Logo Designer “Logo Maker”](https://chat.openai.com/g/g-nPanZDwQ5-suparogodezaina-rogozuo-rujun): GPTs for super logo designers who will properly listen to you and propose a logo to you by [Tomoyuki Enomoto](https://twitter.com/sarukun99)
@@ -353,6 +354,8 @@ Awesome GPTs is a collection of all GPTs created by the community.
 - [InteriorGPT](https://chat.openai.com/g/g-MMsjdW9vb-interiorgpt): Transform Your Space with AI 🤖 by [@sallumandya1995](https://github.com/sallumandya1995)
 - [Architecture AI](https://chat.openai.com/g/g-40KJLGAgH-architecture-ai): AI architect for designing beautiful buildings by [YIMBYLAND](https://twitter.com/YIMBYLAND)
 - [Brand Logo Designer by DoMore.ai](https://chat.openai.com/g/g-eSTMWEuBk-brand-logo-designer-by-domore-ai): Use this custom GPT to create a horizontal logo with an icon symbolizing your business and your brand name alongside, set on a transparent background by [@TS5002](https://github.com/TS5002)
+- [Logo Design Wizard](https://chat.openai.com/g/g-OfG13AhZC-logo-design-wizard): Expert in custom logo design and brand identity. For Shopify stores, blogs, startups, applications, etc. by [S.J](https://github.com/noname2312)
+- [Photo Multiverse](https://chat.openai.com/g/g-ZctQCI6MG-photo-multiverse): Upload your selfie, headshot photo or object and teleport to a new destination background	by [SableVista](https://github.com/SableVista)
 
 
 ## Education
@@ -416,12 +419,15 @@ Awesome GPTs is a collection of all GPTs created by the community.
 - [Dense Summarizer] (https://chat.openai.com/g/g-AAmVBcVfk-dense-summarizer):Create paper/report summaries so dense (yet compact) that you can get away without reading the original paper. By Shiva Kakkar (www.shivakakkar.link)
 - [MedGPT] (https://chat.openai.com/g/g-duAbrIQRJ-medgpt-a-case-study-on-self-determination-theory): A simulation to teach 'Self-determination theory' to management students based on a well-researched health care scenario. By Shiva Kakkar (www.shivakakkar.link)
 - [McNamaraGPT] (https://chat.openai.com/g/g-2qfy9dWOg-mcnamaragpt-a-turn-based-strategy-game): A game to teach McNamara Fallacy to students. Used as part of Management school curriculums. By Shiva Kakkar (www.shivakakkar.link)
+
+
 ## Energy & Climate
 - [Solar Consultant](https://chat.openai.com/g/g-zOWLnMfIU-solar-consultant): Helps you with your Solar power, plant requirements, and offers clear, concise solar panel advice by [Sunwize Energy Systems Pvt. Ltd.](https://www.linkedin.com/company/sunwize/)
 - [Home Energy Advisor](https://chat.openai.com/g/g-z0bsfNa9W-home-energy-advisor): Energy Efficiency Advisor by [Brian Flanagan](https://www.linkedin.com/in/brian-flanagan-2508926/)
 - [Eco-Architect](https://chat.openai.com/g/g-IppHY7KBy-eco-architect): Expert in sustainable & modern eco-architecture, integrating permaculture principles.
 - [MARSfarm Quotes](https://chat.openai.com/g/g-RRo1Apoyj-marsfarm-quotes): Learn about how to use and purchase countertop greenhouses by [MARSfarm_Corporation](https://community.openai.com/u/MARSfarm_Corporation)
 - [Climate Change Assistant](https://chat.openai.com/g/g-0BOzT8eon-climate-change-assistant): I simplify climate science by [Adrian Pellegrini](https://community.openai.com/u/apellegrini)
+- [Carbon-footprint count guide](https://chat.openai.com/g/g-269eJfz9f-carbon-count-guide): A carbon specialist aiding in analyzing and reducing carbon footprints by [Clemmie](https://github.com/Theatrix2020)
 
 
 ## Entertainment & Fun
@@ -615,7 +621,7 @@ Awesome GPTs is a collection of all GPTs created by the community.
 - [Wing Chun Mastery](https://chat.openai.com/g/g-FWBVFTNQ0-wing-chun-mastery): Scholarly techniques, training, and philosophy by [Davis](https://community.openai.com/u/BPS_Software)
 - [JungGPT](https://chat.openai.com/g/g-Izd6ToWMh-junggpt): Your compact AI companion for emotional insights! This revolutionary tool is fueled by a vast repository of information spanning psychology, therapy, and philosophy by [Tim](https://community.openai.com/u/tventura94)
 - [Ethical AI](https://chat.openai.com/g/g-4TqgssqTw-ethical-ai): a daily challenge
-- [VedantaGPT](https://chat.openai.com/g/g-8yOCnl2xV-vedantagpt):I teach Sankara's Advaita Vedanta with authentic commentaries from Guru's like Swami Chinmayananda and Swami Dayananda Saraswati. By Shiva Kakkar (www.shivakakkar.link)
+- [VedantaGPT](https://chat.openai.com/g/g-8yOCnl2xV-vedantagpt):I teach Sankara's Advaita Vedanta with authentic commentaries from Guru's like Swami Chinmayananda and Swami Dayananda Saraswati by [Shiva Kakkar](www.shivakakkar.link)
 
 
 ## Productivity
@@ -648,6 +654,7 @@ Awesome GPTs is a collection of all GPTs created by the community.
 - [Townsend Atomics Enhanced AI](https://chat.openai.com/g/g-XFeB5TGQy-townsend-atomics-enhanced-ai): Versatile AI for Life Improvement and Safety by [Jordan Kurt Townsend](https://www.linkedin.com/in/townsendatomics/)
 - [Cauldron](https://chat.openai.com/g/g-TnyOV07bC-cauldron): Media Mixer & Editor. Upload 1 to remake in a similar style. Upload 2 or more to remix, blend, edit or transfer styles. K for cmd menu by [Nicholas Dobos](https://x.com/NickADobos/)
 - [Technical RFP Expert](https://chat.openai.com/g/g-APDSraFhe-technical-rfp-expert): Offers analysis and guidance on technology-focused RFPs, RFIs, and RFQs, focusing on technical aspects, risks, and regulations in a clear, factual manner by [Mateus Dias](https://github.com/mtdias). More details [here](https://github.com/mtdias/technical-rfp-expert-gpt-bot).
+- [Excel Maestro](https://chat.openai.com/g/g-PNdA4W4tm-excel-maestro): Expert in Excel formulas, charting, pivot tables, and data organization, providing tailored guidance and efficient solutions by [S.J](https://github.com/noname2312)
 
 
 ## Programming Assistance
@@ -727,6 +734,7 @@ Awesome GPTs is a collection of all GPTs created by the community.
 - [impacketGPT](https://chat.openai.com/g/g-8Ax6NRrAb-impacketgpt): Your go-to source for Impacket documentation by [nuts.](https://twitter.com/__nuts7)
 - [FridaGPT](https://chat.openai.com/g/g-KwZVA8dTp-fridagpt): A Frida focussed GPT to help reverse engineers in writing Frida scripts. by [By L Jacobs](https://twitter.com/leonjza)
 - [AccelerantGPT](https://chat.openai.com/g/g-drqoA3ffZ-accelerantgpt): An expert in Rust adept at explaining code and teaching you the language by [Tim McNamara](https://twitter.com/timClicks)
+- [API Finder](https://chat.openai.com/g/g-QgeXE2fgm-api-finder): Assists in finding and detailing APIs. Also guide users on how to effectively utilize APIs in their projects by [S.J](https://github.com/noname2312)
 
 
 ## Storytelling & Screenplays
