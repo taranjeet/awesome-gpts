@@ -133,6 +133,7 @@ Awesome GPTs is a collection of all GPTs created by the community.
 
 
 ## Content Creation & Writing
+- [Dating Profile GPT](https://chat.openai.com/g/g-AGN1OU4SM-dating-profile-gpt): Create magnetic, personality-driven dating bios for Tinder, Bumble, etc. by [TinderProfile.ai](https://tinderprofile.ai/)
 - [BibiGPT.co](https://chat.openai.com/g/g-HEChZ7eza-bibigpt-co): I summarize Bilibili/YouTube/Tiktok videos into key points. Just give me a link by [Jimmy Jinglv](https://x.com/Jimmy_JingLv/)
 - [Typeframes - Video Creation](https://chat.openai.com/g/g-vPFqv6NDp-typeframes-video-creation): Create videos for you by [Tibo](https://x.com/tibo_maker/) 
 - [YT transcriber](https://chat.openai.com/g/g-Xt0xteYE8-yt-transcriber): this transcribes a YT video from a single id by [swyx](https://x.com/swyx/)
