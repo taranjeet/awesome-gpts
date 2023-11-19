@@ -133,6 +133,7 @@ Awesome GPTs is a collection of all GPTs created by the community.
 
 
 ## Content Creation & Writing
+- [Dating Profile GPT](https://chat.openai.com/g/g-AGN1OU4SM-dating-profile-gpt): Create magnetic, personality-driven dating bios for Tinder, Bumble, etc. by [TinderProfile.ai](https://tinderprofile.ai/)
 - [BibiGPT.co](https://chat.openai.com/g/g-HEChZ7eza-bibigpt-co): I summarize Bilibili/YouTube/Tiktok videos into key points. Just give me a link by [Jimmy Jinglv](https://x.com/Jimmy_JingLv/)
 - [Typeframes - Video Creation](https://chat.openai.com/g/g-vPFqv6NDp-typeframes-video-creation): Create videos for you by [Tibo](https://x.com/tibo_maker/) 
 - [YT transcriber](https://chat.openai.com/g/g-Xt0xteYE8-yt-transcriber): this transcribes a YT video from a single id by [swyx](https://x.com/swyx/)
@@ -296,6 +297,7 @@ Awesome GPTs is a collection of all GPTs created by the community.
 - [The Negotiator](https://chat.openai.com/g/g-TTTAK9GuS-the-negotiator): I'll help you advocate for yourself and get better outcomes. Become a great negotiator
 - [Debate Mentor](https://chat.openai.com/g/g-KIX0IC8cj-debate-mentor): Mentor and debater, guides users to articulate conclusions by [@kylecoogan](https://github.com/kylecoogan)
 - [Counterpoint](https://chat.openai.com/g/g-Xgf5oBbeg-counterpoint): I challenge ideas to provoke thought.
+- [ComebackGPT](https://chat.openai.com/g/g-eluaZeSJd-comebackgpt): Someone taunted you? Tell me what they said and I'll provide comebacks that'll knock the teeth out of their mouth! by [Shiva Kakkar](www.shivakakkar.link)
 
 
 ## Design 
@@ -352,6 +354,8 @@ Awesome GPTs is a collection of all GPTs created by the community.
 - [InteriorGPT](https://chat.openai.com/g/g-MMsjdW9vb-interiorgpt): Transform Your Space with AI 🤖 by [@sallumandya1995](https://github.com/sallumandya1995)
 - [Architecture AI](https://chat.openai.com/g/g-40KJLGAgH-architecture-ai): AI architect for designing beautiful buildings by [YIMBYLAND](https://twitter.com/YIMBYLAND)
 - [Brand Logo Designer by DoMore.ai](https://chat.openai.com/g/g-eSTMWEuBk-brand-logo-designer-by-domore-ai): Use this custom GPT to create a horizontal logo with an icon symbolizing your business and your brand name alongside, set on a transparent background by [@TS5002](https://github.com/TS5002)
+- [Logo Design Wizard](https://chat.openai.com/g/g-OfG13AhZC-logo-design-wizard): Expert in custom logo design and brand identity. For Shopify stores, blogs, startups, applications, etc. by [S.J](https://github.com/noname2312)
+- [Photo Multiverse](https://chat.openai.com/g/g-ZctQCI6MG-photo-multiverse): Upload your selfie, headshot photo or object and teleport to a new destination background	by [SableVista](https://github.com/SableVista)
 
 
 ## Education
@@ -412,6 +416,9 @@ Awesome GPTs is a collection of all GPTs created by the community.
 - [Nature's Guide](https://chat.openai.com/g/g-vaRyhOuIA-nature-s-guide): Identifies plants & fungi from images and shares facts and folklore.
 - [LaboraBot](https://chat.openai.com/g/g-fYpUUlZBV-laborabot): I am going to help you carry out your practice with homemade materials by [Ernesto Boixader Gil](https://twitter.com/eboixader)
 - [Experiential Learning Theory to Practice](https://chat.openai.com/g/g-BgpVm7CTW-experiential-learning-theory-to-practice): Enhances pedagogical understanding with added journal articles by [Paul McAfee](https://www.linkedin.com/in/paulmcafee)
+- [Dense Summarizer](https://chat.openai.com/g/g-AAmVBcVfk-dense-summarizer):Create paper/report summaries so dense (yet compact) that you can get away without reading the original paper by [Shiva Kakkar](www.shivakakkar.link)
+- [MedGPT](https://chat.openai.com/g/g-duAbrIQRJ-medgpt-a-case-study-on-self-determination-theory): A simulation to teach 'Self-determination theory' to management students based on a well-researched health care scenario by [Shiva Kakkar](www.shivakakkar.link)
+- [McNamaraGPT](https://chat.openai.com/g/g-2qfy9dWOg-mcnamaragpt-a-turn-based-strategy-game): A game to teach McNamara Fallacy to students. Used as part of Management school curriculums by [Shiva Kakkar](www.shivakakkar.link)
 
 
 ## Energy & Climate
@@ -420,6 +427,7 @@ Awesome GPTs is a collection of all GPTs created by the community.
 - [Eco-Architect](https://chat.openai.com/g/g-IppHY7KBy-eco-architect): Expert in sustainable & modern eco-architecture, integrating permaculture principles.
 - [MARSfarm Quotes](https://chat.openai.com/g/g-RRo1Apoyj-marsfarm-quotes): Learn about how to use and purchase countertop greenhouses by [MARSfarm_Corporation](https://community.openai.com/u/MARSfarm_Corporation)
 - [Climate Change Assistant](https://chat.openai.com/g/g-0BOzT8eon-climate-change-assistant): I simplify climate science by [Adrian Pellegrini](https://community.openai.com/u/apellegrini)
+- [Carbon-footprint count guide](https://chat.openai.com/g/g-269eJfz9f-carbon-count-guide): A carbon specialist aiding in analyzing and reducing carbon footprints by [Clemmie](https://github.com/Theatrix2020)
 
 
 ## Entertainment & Fun
@@ -508,6 +516,7 @@ Awesome GPTs is a collection of all GPTs created by the community.
 - [ProfileReview.com ❤️‍🔥](https://chat.openai.com/g/g-yPLAsV2bz-profilereview-com): Free dating profile review for Tinder, Bumble and Hinge. Optimize your dating app profile, photos and convos and get 10x more matches. by [levelsio](https://twitter.com/levelsio)
 - [MundlGPT](https://chat.openai.com/g/g-pIKzWkElB-mundlgpt): A real Viennese doesn't go down by [Nikolaus Kern](https://twitter.com/KernNiko)
 - [F1 Translation Meister](https://chat.openai.com/g/g-UfKr5xVKC-f1fan-yi-maisuta): F1翻訳マイスター by Takumi Fukaya
+- [Guess a Word](https://chat.openai.com/g/g-QiPBZt4Zo-guess-a-word): Discover words through images in 'Guess a Word', where each picture is a puzzle waiting to be solved!
 
 
 ## Fashion
@@ -612,6 +621,7 @@ Awesome GPTs is a collection of all GPTs created by the community.
 - [Wing Chun Mastery](https://chat.openai.com/g/g-FWBVFTNQ0-wing-chun-mastery): Scholarly techniques, training, and philosophy by [Davis](https://community.openai.com/u/BPS_Software)
 - [JungGPT](https://chat.openai.com/g/g-Izd6ToWMh-junggpt): Your compact AI companion for emotional insights! This revolutionary tool is fueled by a vast repository of information spanning psychology, therapy, and philosophy by [Tim](https://community.openai.com/u/tventura94)
 - [Ethical AI](https://chat.openai.com/g/g-4TqgssqTw-ethical-ai): a daily challenge
+- [VedantaGPT](https://chat.openai.com/g/g-8yOCnl2xV-vedantagpt):I teach Sankara's Advaita Vedanta with authentic commentaries from Guru's like Swami Chinmayananda and Swami Dayananda Saraswati by [Shiva Kakkar](www.shivakakkar.link)
 
 
 ## Productivity
@@ -643,6 +653,8 @@ Awesome GPTs is a collection of all GPTs created by the community.
 - [Paper Interpreter](https://chat.openai.com/g/g-R9Dry2N5h-paper-interpreter): Explain the PDF of the academic paper in an easy-to-understand manner by [Daichi Konno](https://twitter.com/_daichikonno)
 - [Townsend Atomics Enhanced AI](https://chat.openai.com/g/g-XFeB5TGQy-townsend-atomics-enhanced-ai): Versatile AI for Life Improvement and Safety by [Jordan Kurt Townsend](https://www.linkedin.com/in/townsendatomics/)
 - [Cauldron](https://chat.openai.com/g/g-TnyOV07bC-cauldron): Media Mixer & Editor. Upload 1 to remake in a similar style. Upload 2 or more to remix, blend, edit or transfer styles. K for cmd menu by [Nicholas Dobos](https://x.com/NickADobos/)
+- [Technical RFP Expert](https://chat.openai.com/g/g-APDSraFhe-technical-rfp-expert): Offers analysis and guidance on technology-focused RFPs, RFIs, and RFQs, focusing on technical aspects, risks, and regulations in a clear, factual manner by [Mateus Dias](https://github.com/mtdias). More details [here](https://github.com/mtdias/technical-rfp-expert-gpt-bot).
+- [Excel Maestro](https://chat.openai.com/g/g-PNdA4W4tm-excel-maestro): Expert in Excel formulas, charting, pivot tables, and data organization, providing tailored guidance and efficient solutions by [S.J](https://github.com/noname2312)
 
 
 ## Programming Assistance
@@ -722,6 +734,7 @@ Awesome GPTs is a collection of all GPTs created by the community.
 - [impacketGPT](https://chat.openai.com/g/g-8Ax6NRrAb-impacketgpt): Your go-to source for Impacket documentation by [nuts.](https://twitter.com/__nuts7)
 - [FridaGPT](https://chat.openai.com/g/g-KwZVA8dTp-fridagpt): A Frida focussed GPT to help reverse engineers in writing Frida scripts. by [By L Jacobs](https://twitter.com/leonjza)
 - [AccelerantGPT](https://chat.openai.com/g/g-drqoA3ffZ-accelerantgpt): An expert in Rust adept at explaining code and teaching you the language by [Tim McNamara](https://twitter.com/timClicks)
+- [API Finder](https://chat.openai.com/g/g-QgeXE2fgm-api-finder): Assists in finding and detailing APIs. Also guide users on how to effectively utilize APIs in their projects by [S.J](https://github.com/noname2312)
 
 
 ## Storytelling & Screenplays
@@ -790,4 +803,5 @@ Awesome GPTs is a collection of all GPTs created by the community.
 - [VinuChain and VINU GPT](https://chat.openai.com/g/g-iw0xh6QBu-vinuchain-and-vinu-gpt): I am VinuChain and VINU GPT, specialized in the VINU ecosystem, including VinuFinance, VinuSwap, VINU token, and VinuChain. I offer insights on their features, tokenomics, and development. by [Taylor Miller](https://twitter.com/VitaInuCoin)
 - [Kitze GPT](https://chat.openai.com/g/g-KQJtxRnAz-kitze-gpt): Talk to Kitze by [Kitze](https://twitter.com/thekitze)
 - [@levelsio](https://chat.openai.com/g/g-QFAuxHmUa-levelsio): Talk with @levelsio on ChatGPT. Ask any question you want about building your own startup, digital nomading, remote work and whatever else you'd like to ask. Trained on all of my podcasts, interviews, blog posts and tweets! by [levelsio](https://twitter.com/levelsio)
+- [3rd SoftSec Reviewer](https://chat.openai.com/g/g-nAldYnak2-3rd-softsec-reviewer):Perform 3rd party software security review by [yevh](https://github.com/yevh)
 
