@@ -751,6 +751,7 @@ Awesome GPTs is a collection of all GPTs created by the community.
 - [FridaGPT](https://chat.openai.com/g/g-KwZVA8dTp-fridagpt): A Frida focussed GPT to help reverse engineers in writing Frida scripts. by [By L Jacobs](https://twitter.com/leonjza)
 - [AccelerantGPT](https://chat.openai.com/g/g-drqoA3ffZ-accelerantgpt): An expert in Rust adept at explaining code and teaching you the language by [Tim McNamara](https://twitter.com/timClicks)
 - [API Finder](https://chat.openai.com/g/g-QgeXE2fgm-api-finder): Assists in finding and detailing APIs. Also guide users on how to effectively utilize APIs in their projects by [S.J](https://github.com/noname2312)
+- [ffmpegGPT](https://chat.openai.com/g/g-ehkkatxfC-ffmpeggpt): FFMPEG expert for helping you create complex video editing commands with FFMPEG by [Chandler](https://github.com/chand1012).
 
 
 ## Storytelling & Screenplays
