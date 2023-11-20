@@ -823,3 +823,7 @@ Awesome GPTs is a collection of all GPTs created by the community.
 - [3rd SoftSec Reviewer](https://chat.openai.com/g/g-nAldYnak2-3rd-softsec-reviewer):Perform 3rd party software security review by [yevh](https://github.com/yevh)
 - [TrenBot](https://chat.openai.com/g/g-hlLbNjzRZ-trenbot): Chatbot for Tren Griffin's views on the market, tech, and everything else by [Tren Griffin](https://twitter.com/trengriffin)
 
+
+## Contributing
+
+Please take a quick look at the [contribution guidelines](https://github.com/taranjeet/awesome-gpts/blob/main/CONTRIBUTING.md) for details. Thanks to all [contributors](https://github.com/taranjeet/awesome-gpts/graphs/contributors); you are awesome!
