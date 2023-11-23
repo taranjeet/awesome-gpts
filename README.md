@@ -573,7 +573,8 @@ Awesome GPTs is a collection of all GPTs created by the community.
 - [Pill Pal](https://chat.openai.com/g/g-oHDhbozdt-pill-pal): Organizes and tracks medication schedules.
 - [VetGPT](https://chat.openai.com/g/g-zrHdCQJS6-vetgpt): Your Vet A.I. that can analyze pet health by photos by [Benny Gomez](https://www.linkedin.com/in/benny-gomez-jr-55837574/)
 - [FAT2FIT GPT](https://chat.openai.com/g/g-YSwW03u03-fat2fit-gpt): Encouraging fitness advisor for tailored workouts - [Andrey Azimov](https://twitter.com/AndreyAzimov)
-
+- [ThermoHelper](https://chat.openai.com/g/g-qidPF2GzW-thermohelper): Provides Thermomix recipes based on your ingredients, with DALL·E 3 dish images. By [Luis González](https://ljgonzalez.cl/)
+- [Chef's Mate](https://chat.openai.com/g/g-Xwlw083tG-chef-s-mate): A culinary wizard transforming ingredients into visual feasts with recipes with DALL·E 3 dish images. By [Luis González](https://ljgonzalez.cl/)
 
 ## Law & Taxes
 - [TaxGPT](https://chat.openai.com/g/g-cxe3Tq6Ha-taxgpt): Tax advice specialist offering guidance on tax-related queries by [Bojan Tunguz](https://x.com/tunguz/)
