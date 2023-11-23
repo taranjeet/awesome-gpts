@@ -710,15 +710,20 @@ Awesome GPTs is a collection of all GPTs created by the community.
 - [Data Science Project Generator: Project Suggestions](https://chat.openai.com/g/g-fvy71gm4A-data-science-project-generator): Offers data science project ideas and tips by [@vasarmilan](https://github.com/vasarmilan)
 - [Colab Code Crafter: Google Colab Code](https://chat.openai.com/g/g-kqbmidwnU-colab-code-crafter): Get Python code from a GPT tuned to make code that runs in the Google Colaboratory environment by [@David-Deans](https://github.com/David-Deans)
 - [Vue3 GPT](https://chat.openai.com/g/g-LXEGvZLUS-vue3-gpt): A Vue.js 3 coding assistant, always up-to-date with the latest official documentation and presets for a quick choice of your preferred API and syntax by [@luona-dev](https://github.com/luona-dev)
+- [PHP Helper](https://chat.openai.com/g/g-kDs9iyq5U-php-helper): Expert in PHP, SQL, and full-stack development. By [Luis González](https://ljgonzalez.cl/)
 - [Code Companion](https://chat.openai.com/g/g-UwSunyiYn-code-companion): I'm a Python specialist here to help you code and learn! by [@drsoupyy](https://github.com/drsoupyy)
 - [JAVA Code Guide](https://chat.openai.com/g/g-EYiFThMtQ-java-code-guide): A JAVA Development Assistant focusing on coding standards and quality by [@searle-dev](https://github.com/searle-dev)
 - [Repo Ranger](https://chat.openai.com/g/g-f9z2KitCh-repo-ranger): Your go-to sheriff for web-based code insights and security checks by [@marcusrbrown](https://github.com/marcusrbrown)
 - [Code Whiz Pro](https://chat.openai.com/g/g-0SJxA4A1j-code-whiz-pro): Provides insightful code reviews with a humorous twist by [@davidemarcoli](https://github.com/davidemarcoli)
 - [Node.js Project Builder](https://chat.openai.com/g/g-02zmxuXd5-node-js-gpt-project-builder): Build out a full Node.js project, from skeleton to build-ready by [@dougbutner](https://github.com/dougbutner)
 - [React Project Builder](https://chat.openai.com/g/g-eSIFeP4GM-react-gpt-project-builder): Build out a full React project, from planning to code by [@dougbutner](https://github.com/dougbutner)
+- [Nest.js Helper](https://chat.openai.com/g/g-CsaF75oKy-nest-js-helper): Expert in Nest.js, JavaScript, TypeScript, and web technologies, providing code assistance and guidance. By [Luis González](https://ljgonzalez.cl/)
+- [Express.js Helper](https://chat.openai.com/g/g-xDKetNJik-express-js-helper): Node.js and Express.js expert, skilled in coding, optimization, and clean code practices. By [Luis González](https://ljgonzalez.cl/)
+- [Koa.js Helper](https://chat.openai.com/g/g-Z330tmuQS-koa-js-helper): Koa.js expert aiding in JS/TS coding, applying clean code principles, and optimizing MVC structures.. By [Luis González](https://ljgonzalez.cl/)
 - [Angular Project Builder](https://chat.openai.com/g/g-Wkhtm932I-angular-gpt-project-builder): Let AI angular project, from pseudocode to build-ready by [@dougbutner](https://github.com/dougbutner)
 - [Svelte Project Builder](https://chat.openai.com/g/g-giGWRiNpv-svelte-gpt-project-builder): Build out a full app in Svelte, from pseudocode to real code by [@dougbutner](https://github.com/dougbutner)
 - [Github Repo Assistant](https://chat.openai.com/g/g-QA3Dl6r3G-repo-assistant): Provides both general and specific guidance on publicly accessible Github Repositories and their contents by [@thesamir](https://github.com/thesamir)
+- [Git Expert](https://chat.openai.com/g/g-EIpzGfKNR-git-expert): Expert in GitHub, git, CI/CD, Docker, AWS, with a focus on GitHub assistance. By [Luis González](https://ljgonzalez.cl/)
 - [PC Builder GPT](https://chat.openai.com/g/g-gh7PDdmmd-pc-builder-gpt): I'm PC Builder GPT, your tech-savvy virtual friend who offers expert and approachable advice on building PCs, complete with up-to-date pricing by [@HeyitsRadinn](https://github.com/HeyitsRadinn)
 - [Codey](https://chat.openai.com/g/g-SuWVXlmkP-codey-coding-assistant): 🧙‍♂️💻 Codey - Your coding wizard! I handle code execution, file management 📂, and create charts/graphs 📈 with ease. From code reviews 🤓 to debugging 🔍, I've got you covered.
 - [Code GPT](https://chat.openai.com/g/g-qd7UDCT6K-code-gpt): Code GPT that is able to generate code, push that to GitHub, auto-fix it, etc. Also, it deploys it for you in real-time automatically.
@@ -753,6 +758,9 @@ Awesome GPTs is a collection of all GPTs created by the community.
 - [AccelerantGPT](https://chat.openai.com/g/g-drqoA3ffZ-accelerantgpt): An expert in Rust adept at explaining code and teaching you the language by [Tim McNamara](https://twitter.com/timClicks)
 - [API Finder](https://chat.openai.com/g/g-QgeXE2fgm-api-finder): Assists in finding and detailing APIs. Also guide users on how to effectively utilize APIs in their projects by [S.J](https://github.com/noname2312)
 - [ffmpegGPT](https://chat.openai.com/g/g-ehkkatxfC-ffmpeggpt): FFMPEG expert for helping you create complex video editing commands with FFMPEG by [Chandler](https://github.com/chand1012).
+- [C Helper](https://chat.openai.com/g/g-bZVRXYNMr-c-helper): Expert in C coding and low-level development. By [Luis González](http://ljgonzalez.cl/)
+- [C++ Helper](https://chat.openai.com/g/g-BPsH4p3BB-c-helper): Expert in C++ (cpp) and low-level development, providing coding assistance and solutions. By [Luis González](http://ljgonzalez.cl/)
+- [C# Helper](https://chat.openai.com/g/g-sW9cgD429-c-helper): Expert in C# and backend development. By [Luis González](http://ljgonzalez.cl/)
 
 
 ## Storytelling & Screenplays
