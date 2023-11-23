@@ -427,7 +427,7 @@ Awesome GPTs is a collection of all GPTs created by the community.
 - [McNamaraGPT](https://chat.openai.com/g/g-2qfy9dWOg-mcnamaragpt-a-turn-based-strategy-game): A game to teach McNamara Fallacy to students. Used as part of Management school curriculums by [Shiva Kakkar](www.shivakakkar.link)
 - [IELTS Tutor](https://chat.openai.com/g/g-1ugiDajWP-ielts-tutor): I'm IELTS Tutor, your friendly guide to IELTS success! by [Çağrı Menteş](https://twitter.com/cagrihoca)
 - [SyntheticallyEnhanced Explainer](https://chat.openai.com/g/g-iCGh2R2QA-syntheticallyenhanced-explainer): Explains 'SyntheticallyEnhanced' paper by [Bardia Khosravi](https://twitter.com/khosravi_bardia)
-
+- [Dr. Discreet Riveros](https://chat.openai.com/g/g-CliWsilPZ-dr-discreet-riveros): Your best discrete mathematics teacher. Also available in [Spanish](https://chat.openai.com/g/g-cNAd18itp-dr-discreto-riveros). By [Luis González](https://ljgonzalez.cl/)
 
 ## Energy & Climate
 - [Solar Consultant](https://chat.openai.com/g/g-zOWLnMfIU-solar-consultant): Helps you with your Solar power, plant requirements, and offers clear, concise solar panel advice by [Sunwize Energy Systems Pvt. Ltd.](https://www.linkedin.com/company/sunwize/)
