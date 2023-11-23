@@ -427,7 +427,7 @@ Awesome GPTs is a collection of all GPTs created by the community.
 - [McNamaraGPT](https://chat.openai.com/g/g-2qfy9dWOg-mcnamaragpt-a-turn-based-strategy-game): A game to teach McNamara Fallacy to students. Used as part of Management school curriculums by [Shiva Kakkar](www.shivakakkar.link)
 - [IELTS Tutor](https://chat.openai.com/g/g-1ugiDajWP-ielts-tutor): I'm IELTS Tutor, your friendly guide to IELTS success! by [Çağrı Menteş](https://twitter.com/cagrihoca)
 - [SyntheticallyEnhanced Explainer](https://chat.openai.com/g/g-iCGh2R2QA-syntheticallyenhanced-explainer): Explains 'SyntheticallyEnhanced' paper by [Bardia Khosravi](https://twitter.com/khosravi_bardia)
-
+- [Dr. Discreet Riveros](https://chat.openai.com/g/g-CliWsilPZ-dr-discreet-riveros): Your best discrete mathematics teacher. Also available in [Spanish](https://chat.openai.com/g/g-cNAd18itp-dr-discreto-riveros). By [Luis González](https://ljgonzalez.cl/)
 
 ## Energy & Climate
 - [Solar Consultant](https://chat.openai.com/g/g-zOWLnMfIU-solar-consultant): Helps you with your Solar power, plant requirements, and offers clear, concise solar panel advice by [Sunwize Energy Systems Pvt. Ltd.](https://www.linkedin.com/company/sunwize/)
@@ -573,7 +573,8 @@ Awesome GPTs is a collection of all GPTs created by the community.
 - [Pill Pal](https://chat.openai.com/g/g-oHDhbozdt-pill-pal): Organizes and tracks medication schedules.
 - [VetGPT](https://chat.openai.com/g/g-zrHdCQJS6-vetgpt): Your Vet A.I. that can analyze pet health by photos by [Benny Gomez](https://www.linkedin.com/in/benny-gomez-jr-55837574/)
 - [FAT2FIT GPT](https://chat.openai.com/g/g-YSwW03u03-fat2fit-gpt): Encouraging fitness advisor for tailored workouts - [Andrey Azimov](https://twitter.com/AndreyAzimov)
-
+- [ThermoHelper](https://chat.openai.com/g/g-qidPF2GzW-thermohelper): Provides Thermomix recipes based on your ingredients, with DALL·E 3 dish images. By [Luis González](https://ljgonzalez.cl/)
+- [Chef's Mate](https://chat.openai.com/g/g-Xwlw083tG-chef-s-mate): A culinary wizard transforming ingredients into visual feasts with recipes with DALL·E 3 dish images. By [Luis González](https://ljgonzalez.cl/)
 
 ## Law & Taxes
 - [TaxGPT](https://chat.openai.com/g/g-cxe3Tq6Ha-taxgpt): Tax advice specialist offering guidance on tax-related queries by [Bojan Tunguz](https://x.com/tunguz/)
