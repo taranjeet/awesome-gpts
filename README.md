@@ -120,6 +120,7 @@ Awesome GPTs is a collection of all GPTs created by the community.
 - [Post Cheetah SEO](https://chat.openai.com/g/g-C63rpm9U0-post-cheetah-seo): Do an instant SEO analysis of any website by [Mark J Gadala Maria](https://twitter.com/markgadala)
 - [Pitch GPT](https://chat.openai.com/g/g-qcH5H9Aza-pitch-gpt): Pitch GPT helps craft customized business pitches, integrating web research, visual creation, and coding insights for diverse business needs. by [David Robertson](https://www.linkedin.com/in/daverobertson4)
 - [Prototyper](https://chat.openai.com/g/g-UiLPuZ5ZZ-prototyper): I casually craft and host web prototypes, explaining code on request by [Florian S](https://twitter.com/airesearch12)
+- [BounceBan](https://chat.openai.com/g/g-q5uXtrvkH-bounceban-com-free-email-verification): Free & Unlimited email verifications within ChatGPT powered by BounceBan.com.
 </details>
 
 
@@ -639,8 +640,6 @@ Awesome GPTs is a collection of all GPTs created by the community.
 
 <details>
 <summary><b>News</b></summary>
-## Marketing
-- [BounceBan](https://chat.openai.com/g/g-q5uXtrvkH-bounceban-com-free-email-verification): Free & Unlimited email verifications within ChatGPT powered by BounceBan.com.
 - [Fact Checker](https://chat.openai.com/g/g-v7FoB0G1M-fact-checker): Fact-checking GPT that cites sources by Matthew S Gassner
 - [Ben's Bites GPT](https://chat.openai.com/g/g-xHeDAUpJx-ben-s-bites-gpt): Latest AI News and Product Launches by [Ben Tossell](https://x.com/bentossell/)
 - [No-code News GPT](https://kavirkaycee.com/no-code-news-gpt): Stay Ahead in the No-Code Revolution by [Kavir Kaycee](https://twitter.com/kavirkaycee)
