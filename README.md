@@ -19,6 +19,7 @@ Awesome GPTs is a collection of all GPTs created by the community.
 - [Finance & Economics](#finance--economics)
 - [Health](#health)
 - [Law & Taxes](#law--taxes)
+- [Marketing](#marketing)
 - [News](#news)
 - [Philosophy & Self Help](#philosophy--self-help)
 - [Productivity](#productivity)
@@ -592,6 +593,8 @@ Awesome GPTs is a collection of all GPTs created by the community.
 - [LeiSequinha](https://chat.openai.com/g/g-0kXu7QuRD-leisequinha): Automatically extract the JUICE from the Law by [Joao Alberto o Lima](https://twitter.com/joaoli13)
 - [kIRBy](https://chat.openai.com/g/g-eDGmfjZb3-kirby): IRB guidance, one question at a time by [Tejas Sathe](https://twitter.com/tssathe)
 
+## Marketing
+- [BounceBan](https://chat.openai.com/g/g-q5uXtrvkH-bounceban-com-free-email-verification): Free & Unlimited email verifications within ChatGPT powered by BounceBan.com.
 
 ## News
 - [Fact Checker](https://chat.openai.com/g/g-v7FoB0G1M-fact-checker): Fact-checking GPT that cites sources by Matthew S Gassner
