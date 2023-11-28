@@ -4,39 +4,7 @@ Awesome GPTs is a collection of all GPTs created by the community.
 
 <details>
 <summary><b>Artificial Intelligence</b></summary>
-
-## Table of contents
-- [Artificial Intelligence](#artificial-intelligence)
-- [Automobile](#automobile)
-- [Business & Product](#business--product)
-- [Career Advice & Coaching](#career-advice--coaching)
-- [Content Creation & Writing](#content-creation--writing)
-- [Culinary](#culinary)
-- [Cybersecurity](#cybersecurity)
-- [Debate](#debate)
-- [Design](#design)
-- [Education](#education)
-- [Energy & Climate](#energy--climate)
-- [Entertainment & Fun](#entertainment--fun)
-- [Fashion](#fashion)
-- [Finance & Economics](#finance--economics)
-- [Health](#health)
-- [Law & Taxes](#law--taxes)
-- [Marketing](#marketing)
-- [News](#news)
-- [Philosophy & Self Help](#philosophy--self-help)
-- [Productivity](#productivity)
-- [Programming Assitance](#programming-assistance)
-  - [General Programming](#general-programming)
-  - [Language Specific](#language--framework-specific)
-  - [Other Programming GPTs](other-programming-gpts)
-- [Storytelling & Screenplays](#storytelling--screenplays)
-- [Translator & Languages](#translator--languages)
-- [Travel](#travel)
-- [Miscellaneous](#miscellaneous)
-
-
-## Artificial Intelligence 
+  
 - [Impress Me GPT](https://chat.openai.com/g/g-zjMvl4pFx-impress-me-gpt): Showing off the abilities of ChatGPT until you’re impressed! by [MindBranches](https://x.com/MindBranches)
 - [New GPT-5](https://chat.openai.com/g/g-jCYeXl5xh-new-gpt-5): A superior AI with advanced reasoning and confidentiality by [Danik Tka](https://www.linkedin.com/in/dainis-tka/)  
 - [AEC AI GPT](https://chat.openai.com/g/g-KraRiLoIA-aec-ai-gpt): AEC specialist offering AI tool advice with visuals by [Stjepan Mikulić](https://www.linkedin.com/in/stjepanmikulic/)
@@ -640,6 +608,7 @@ Awesome GPTs is a collection of all GPTs created by the community.
 
 <details>
 <summary><b>News</b></summary>
+  
 - [Fact Checker](https://chat.openai.com/g/g-v7FoB0G1M-fact-checker): Fact-checking GPT that cites sources by Matthew S Gassner
 - [Ben's Bites GPT](https://chat.openai.com/g/g-xHeDAUpJx-ben-s-bites-gpt): Latest AI News and Product Launches by [Ben Tossell](https://x.com/bentossell/)
 - [No-code News GPT](https://kavirkaycee.com/no-code-news-gpt): Stay Ahead in the No-Code Revolution by [Kavir Kaycee](https://twitter.com/kavirkaycee)
