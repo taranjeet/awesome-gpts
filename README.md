@@ -116,11 +116,15 @@ Awesome GPTs is a collection of all GPTs created by the community.
 - [Career Counselor](https://chat.openai.com/g/g-yD0ZMqZLT-career-counselor): Empathetic career counselor offering guidance and market insights
 - [Job Assistant GPT](https://chat.openai.com/g/g-yGdxivD2B-job-assistant-gpt): Assists with job applications, specializing in cover letters and LaTeX CV refinement.
 - [Decision Coach](https://chat.openai.com/g/g-OoyU2wEBO-decision-coach): I am your guide to better decisions by [Treasurex Melchior](https://www.linkedin.com/in/treasurex-melchior-9586479/)
+- [Personal and mental coach](https://chat.openai.com/g/g-A8GlPC3MV-personal-and-mental-coach): Personal and Mental Coach for Maximizing Potential and Overcoming Challenges.
 </details>
 
 <details>
 <summary><b>Content Creation & Writing</b></summary>
-
+  
+- [Interactive Writer](https://chat.openai.com/g/g-AaKhBisIN-interactive-writer): Bring GPT Writing Skills to the Next Level.
+- [The Guided Writer](https://chat.openai.com/g/g-spa305Ewq-the-best-guided-writer): This GPT crafts customized articles by asking you questions, ensuring content that precisely matches your requirements and preferences.
+- [Editing Guru](https://chat.openai.com/g/g-AZKC67NTa-editing-guru): Your ultimate solution for improving, reviewing, and rewriting texts.
 - [Dating Profile GPT](https://chat.openai.com/g/g-AGN1OU4SM-dating-profile-gpt): Create magnetic, personality-driven dating bios for Tinder, Bumble, etc. by [TinderProfile.ai](https://tinderprofile.ai/)
 - [BibiGPT.co](https://chat.openai.com/g/g-HEChZ7eza-bibigpt-co): I summarize Bilibili/YouTube/Tiktok videos into key points. Just give me a link by [Jimmy Jinglv](https://x.com/Jimmy_JingLv/)
 - [Typeframes - Video Creation](https://chat.openai.com/g/g-vPFqv6NDp-typeframes-video-creation): Create videos for you by [Tibo](https://x.com/tibo_maker/)
@@ -289,6 +293,7 @@ Awesome GPTs is a collection of all GPTs created by the community.
 <details>
 <summary><b>Debate</b></summary>
 
+- [Debate wars]( https://chat.openai.com/g/g-3f6WLJxOX-debate-wars) - Just provide a topic or question in your spoken language to start a ChatGpt vs ChatGpt debate battle.
 - [Ronpa-kun](https://chat.openai.com/g/g-3hxXAJOHO-lun-po-kun): I can refute anything by [Takayuki Fukuda](https://x.com/hedachi/)
 - [The Debate SuperPrompt.](https://chat.openai.com/g/g-m1T3Ix4B3-the-debate-superprompt): This will conduct a debate on any topic with two people debating each point and counter point to a subject by [Brian Roemmele](https://x.com/BrianRoemmele/)
 - [Debate Master](https://chat.openai.com/g/g-5DuYEGd7Y-debate-master): I engage in civil, firm debates by [Andrew Kean Gao](https://x.com/itsandrewgao/)
@@ -623,6 +628,9 @@ Awesome GPTs is a collection of all GPTs created by the community.
 <details>
 <summary><b>Philosophy & Self-help</b></summary>
 
+- [The philosopher]( https://chat.openai.com/g/g-1KGHmUIWk-the-philosopher): I am a philosopher. I am here to weave a tapestry of understanding through shared inquiry.
+- [The Delphi Oracle](https://chat.openai.com/g/g-coVon6Rzr-the-delphi-oracle): Your sage guidance in life.
+- [Morpheus]( https://chat.openai.com/g/g-bszGmASOG-into-the-matrix): Neo, let Morpheus guide you to enter the Matrix.
 - [Athena](https://chat.openai.com/g/g-SNLCL5HGB-athena): A witty robot philosopher from 2521 by [sarasdewi](https://x.com/sarasdewi)
 - [Psychiatrist Yusuke Masuda (prototype 1.00)](https://chat.openai.com/g/g-F3vsvlW7J-jing-shen-ke-yi-yi-tian-yu-jie-shi-zuo): Empathetic Guide with Resourceful Insights by [Yusuke Masuda](https://x.com/wasedamental/)
 - [Adorable Zen Master](https://chat.openai.com/g/g-H5OUZAcnd-adorable-zen-master): A gateway to Zen's joy and wisdom by [Naomi Hart](https://x.com/naomihart/)
