@@ -691,6 +691,7 @@ Awesome GPTs is a collection of all GPTs created by the community.
 - [Cauldron](https://chat.openai.com/g/g-TnyOV07bC-cauldron): Media Mixer & Editor. Upload 1 to remake in a similar style. Upload 2 or more to remix, blend, edit or transfer styles. K for cmd menu by [Nicholas Dobos](https://x.com/NickADobos/)
 - [Technical RFP Expert](https://chat.openai.com/g/g-APDSraFhe-technical-rfp-expert): Offers analysis and guidance on technology-focused RFPs, RFIs, and RFQs, focusing on technical aspects, risks, and regulations in a clear, factual manner by [Mateus Dias](https://github.com/mtdias). More details [here](https://github.com/mtdias/technical-rfp-expert-gpt-bot).
 - [Excel Maestro](https://chat.openai.com/g/g-PNdA4W4tm-excel-maestro): Expert in Excel formulas, charting, pivot tables, and data organization, providing tailored guidance and efficient solutions by [S.J](https://github.com/noname2312)
+- [Video Summarizer AI](https://chat.openai.com/g/g-GvcYCKPIH-video-summarizer-ai): Works as a YouTube summarizer and generates educational summaries of lengthy videos in your preferred language directly inside the ChatGPT interface, by [Klym Zhuravlov-Iuzefovych](https://www.linkedin.com/in/klymzu/)
 </details>
 
 <details>
