@@ -1,4 +1,8 @@
-# awesome-gpts
+<div align="center">
+    <h1>Awesome GPTs</h1>
+    <a href="https://awesome.re"><img src="https://awesome.re/badge.svg"/></a>
+</div>
+
 
 Awesome GPTs is a collection of all GPTs created by the community.
 
