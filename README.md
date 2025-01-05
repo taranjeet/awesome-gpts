@@ -218,6 +218,7 @@ Awesome GPTs is a collection of all GPTs created by the community.
 - [GP(en)T(ester)](https://chat.openai.com/g/g-zQfyABDUJ-gp-en-t-ester): A cybersec assistant for pentesting guidance. by Roberto Montiel
 - [Threat Intel Bot](https://chat.openai.com/g/g-Vy4rIqiCF-threat-intel-bot): A specialized GPT for the latest APT threat intelligence. by [threatintel.bot](https://threatintel.bot/)
 - [Web Hacking Wizard](https://chat.openai.com/g/g-Op6Btk7ev-web-hacking-wizard): Engagingly clarifies web security topics with interactive questions. by [Alexander Hagenah](https://www.linkedin.com/in/alexhagenah/)
+- [CavalierGPT](https://chatgpt.com/g/g-Rddxw5Vyc-cavaliergpt-cybersecurity-osint-investigations): Powerful assistant built on the Cavalier API, designed to deliver detailed insights into domains, emails, usernames, IPs, keywords, and cybersecurity trends to uncover threats and enhance security.
 - [ChadGPT](https://chat.openai.com/g/g-hBDutiLmw-chadgpt): Has useful executables in /mnt/data such as gdb, curl, strace. Make PRs at by Chad R Brewbaker
 - [CyberGPT](https://chat.openai.com/g/g-GGqU669bx-cybergpt): It provides the latest CVE details. by Edward Prentice
 - [Cyber Mentor](https://chat.openai.com/g/g-9PmeCxa4O-cyber-mentor): Cybersecurity mentor teaching from the basics to advanced. by Huayu Qin
