@@ -329,6 +329,9 @@ Awesome GPTs is a collection of all GPTs created by the community.
 - [PromptImage](https://promptimage.cloud) - Free AI image & video studio with a prompt library (signup credits, multi-model). Freemium
 - [TeslaWraps](https://teslawraps.design) - Browser Tesla Paint Shop wrap designer — core editing + PNG export free without account; optional AI credit…
 - [GrokVideo Studio](https://grokvideogenerator.dev) - Independent web app for text/image-to-video via Grok Imagine API (Free Trial, 20 credits). Not an official …
+- [Alors On Danse Video Maker](https://alorsondansevideo.com) - Independent AI: two photos → 13s studio dance video (Paid; not affiliated with Stromae/TikTok)
+- [Bad Times AI](https://badtimesai.dev) - Independent AI dance effect: one photo → 14–15s portrait dance video (Paid from $7.99)
+- [I Found You in the Crowd AI](https://ifoundyouinthecrowdai.com) - Independent AI scene effect: two photos → balcony/spotlight meeting video (Paid from $7.99)
 - [EditGPT](https://chat.openai.com/g/g-ZhPbXQIr5-editgpt): Your go-to buddy for all things related to video editing and creating custom images for your projects by [@HeyitsRadinn](https://github.com/HeyitsRadinn)
 - [Image Generation with Self-Critique & Improvement](https://chat.openai.com/g/g-YVPXV5zC-image-generation-with-self-critique-improvement): Generate images and receive self-critique to improve the generation process by [@ezzcodeezzlife](https://github.com/ezzcodeezzlife)
 - [Wizlogo Logo Maker](https://chat.openai.com/g/g-LsuxNbRw5-wizlogo-logo-maker): Write your category, text and enjoy AI generated logo by [@whferr](https://github.com/whferr)
